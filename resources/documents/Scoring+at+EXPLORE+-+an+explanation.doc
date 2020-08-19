@@ -1,0 +1,355 @@
+Date: Tue, 18 Aug 2020 08:49:32 +0000 (UTC)
+Message-ID: <815660984.23.1597740572908@cb70722bb8ae>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_22_152695769.1597740572908"
+
+------=_Part_22_152695769.1597740572908
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Scoring at EXPLORE - an explanation</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Scoring at EXPLORE - an explanation</h1>
+    <div class=3D"Section1">
+        <p>Dear EXPLORERs,</p>
+<p>&nbsp;A number of you have had questions about your marks for each sprin=
+t and what they mean. This communication is meant to address those question=
+s (and hopefully answer one or two you didn=E2=80=99t know you had).</p>
+<p>&nbsp;</p>
+<ul>
+<li><p>How do I get marks and what do they mean?</p></li>
+</ul>
+<p>At EXPLORE the Data Science qualification is aligned with SETA, meaning =
+that when you have successfully finished with the course, you will have an =
+NQF 5 accredited qualification. Since the course is SETA accredited, you do=
+n=E2=80=99t "pass" or "fail". You are found either "competent" or "not yet =
+competent" in a given area, or =E2=80=9Cunit standard=E2=80=9D. The trains,=
+ tests and predicts are built to align with these unit standards.</p>
+<p>In each Sprint, there are a set number of belt points available. These p=
+oints are divided among Trains, Tests and Predicts and align with the vario=
+us unit standards. Your overall sprint score is an indication of the propor=
+tion of available belt points you have gained for that sprint (i.e. a score=
+ of 70% means that you have gained 70% of the points for that Sprint).</p>
+<p>As you go through the course and complete the material, you accumulate p=
+oints in unit standards. You need to accumulate enough points to be deemed =
+"competent". An overall "competent" mark equates to about <strong>70% (or a=
+pproximately 460)</strong> of the belt points available in the fundamentals=
+ phase. However, this is the bare minimum and we expect the majority of our=
+ students will perform much better than this.</p>
+<p>&nbsp;</p>
+<ul>
+<li><p>So if I don=E2=80=99t get 70% for the fundamentals phase, does that =
+mean I fail the course? Will I be kicked out if I do badly in any sprint?</=
+p></li>
+</ul>
+<p>Not at all! Belt points are cumulative, so if you do not have enough bel=
+t points at the end of fundamentals, you will have plenty of opportunity to=
+ accumulate more through the machine learning phase (the second six months)=
+ to make up the shortfall.</p>
+<p>Therefore, you cannot "fail" a sprint and you will not be kicked out of =
+the course. In the unlikely event that you do not accumulate the required p=
+oints throughout the entire course, you will not get an accredited qualific=
+ation, but will still get a certificate of completion stating the tools and=
+ techniques that you have experience with.</p>
+<p>&nbsp;</p>
+<ul>
+<li><p>Does that mean that any belt points above the required amount are me=
+aningless?</p></li>
+</ul>
+<p>No. Your accumulated belt points are also used to calculate your belt le=
+vel, which is indicative of your mastery of the content. The scales are as =
+follows:</p>
+<p>Belt colour&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Score =
+(total accumulated belt points)</p>
+<p>White: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp; &lt;15%</p>
+<p>Yellow: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp; &gt;15%</p>
+<p>Orange: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; &gt;30%</p>
+<p>Green: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp; &gt;40%</p>
+<p>Blue: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &gt;50%</p>
+<p>Brown: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp; &gt;65%</p>
+<p>Red: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &gt;80%</p>
+<p>Black: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &gt;90%</p>
+<p>Your belt level will also be displayed on your certificate, so it=E2=80=
+=99s in your best interest to do as well as you can, especially if you want=
+ to wow future employers.</p>
+<p>&nbsp;</p>
+<ul>
+<li><p>So then how do I track my progress?</p></li>
+</ul>
+<p>Your current belt level and belt score (accumulated total of belt points=
+ so far) can be found under your profile in Athena. This is the best indica=
+tor of your progress. The EGAD diagram shows the proportion of the <strong>=
+total</strong> available belt points that you have earned for each EXPLORE =
+basic pillar of Data Science (Explain, Gather, Analyse, Deploy). This is pu=
+rely for your own enlightenment, to give you an idea of where your own stre=
+ngths lie, but otherwise has no bearing on your marks.</p>
+<p>&nbsp;</p>
+<ul>
+<li><p>Great! Can you tell me how many points each thing is worth so I know=
+ what to focus on?</p></li>
+</ul>
+<p>We=E2=80=99re reluctant to share exact point allocations and weightings =
+for each piece of content. This is because we want to discourage =E2=80=9Cp=
+oint chasing=E2=80=9D and gaming of the system. Many an EXPLORER has found =
+themselves in a difficult place because they spent too much time maximizing=
+ belt points and too little time understanding the material.</p>
+<p>However, a VERY rough breakdown is as follows: 33% of points go to Train=
+s, 33% to tests and 33% to the Predict. This will change slightly depending=
+ on the sprint and its requirements but holds more or less true throughout.=
+</p>
+<p></p>
+<ul>
+<li><p>Help! My points went up/down/disappeared/blew up/took my dog and lef=
+t in the night!</p></li>
+</ul>
+<p>Athena is a complex beast with lots of calculations going on in the back=
+ground. Occasionally we may also have to slightly change belt point allocat=
+ions due to errors with tests or submission or other administrative gremlin=
+s. As such, your belt point totals may vary slightly from time to time. If =
+you notice a big change or feel that something is wrong, you are welcome to=
+ reach out to us at <a href=3D"mailto:online@explore-ai.net" class=3D"exter=
+nal-link" rel=3D"nofollow">online@explore-ai.net</a> and we will do what we=
+ can to help.</p>
+<p>&nbsp;</p>
+<ul>
+<li><p>Thanks for the info, but you didn=E2=80=99t address (insert importan=
+t thing here).</p></li>
+</ul>
+<p>We=E2=80=99re sure we=E2=80=99ve forgotten something, so if you have any=
+ burning questions around this, feel free to reach out to us at <a href=3D"=
+mailto:online@explore-ai.net" class=3D"external-link" rel=3D"nofollow">onli=
+ne@explore-ai.net</a> and we will do our best to give you an accurate and h=
+onest answer.</p>
+    </div>
+</body>
+</html>
+------=_Part_22_152695769.1597740572908--

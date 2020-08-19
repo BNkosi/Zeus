@@ -1,0 +1,51 @@
+﻿How to apply?
+All applications happen via our website: www.explore-datascience.net. Select the course and location (on campus or online) which works for you and click Apply Now. For on campus study, there are various requirements, for online applications it is simpler.
+
+
+Do I qualify to apply?
+For on campus study there are some qualifying criteria, which can be found in the T’s and C’s of our Money-Back Promise (on the website). For online study, anyone qualifies!
+
+
+What is the best course for me?
+This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sure… Use our handy tool to find the course for you. Look for the link under ‘Find your tribe’
+
+
+What qualification will I have at the end?
+We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate.
+
+
+Is it industry recognized?
+EXPLORE Data Science Academy graduates are Amazing People, doing Amazing Things. Our Alumni are highly sought after and 97% of them have found industry related employment within 6 months of graduating.
+
+
+I've signed up but didn't get confirmation?
+First stop is to check your Spam or Junk mail folders. Sometimes the internet gremlins hide our emails there. Alternatively, log back into your student profile and check that you completed all the steps for application. Look for the sign-in button on the top right of the website page.
+
+
+What support is available for online students?
+Webinars will be scheduled for content briefing, and, we have a really cool student chat platform which gives you access to the student community and course facilitators.
+
+
+Are there career services for online?
+EXPLORE Data Science Academy graduates are Amazing People, doing Amazing Things. Our Alumni are highly sought after and 97% of them have found industry related employment within 6 months of graduating.
+
+
+What software tools will we cover in the course?
+You will use the following tools in the course:
+Microsoft SQL - to manage large databases
+Power BI - to build dashboards
+Python - for programming and building models
+What are some of the problems will we solve in the course?
+You will solve fun problems like picking the best football team based on player stats as well as more practical problems like predicting which customer will take out a personal loan.
+
+
+Will we be doing complex math?
+No. Even though there is complex maths behind some of the models, we won’t explicitly cover it. However, the material will be available for those who are interested in the details.
+
+
+Are there any prerequisites for the course?
+No. If you apply for a sponsorship however, there will be some documentation needed. 
+
+
+How will I be graded?
+At EXPLORE we have what is called the Belt system. You will receive points for completing tutorials, test results, project results and peer assessment. These points will build up and can be mapped to a certain belt level which ranger from white to black.
