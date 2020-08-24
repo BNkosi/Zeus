@@ -1,0 +1,290 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How do I get marks?",
+              "id": 18051,
+              "answers": [
+                {
+                  "text": "As you go through the course and complete the material, you accumulate points in unit \nstandards",
+                  "answer_start": 1090,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What do marks mean?",
+              "id": 18052,
+              "answers": [
+                {
+                  "text": "You are found either \"competent\" or \"not \nyet competent\" in a given area, or “unit standard”. The trains, tests and predicts are built to align \nwith these unit standards.",
+                  "answer_start": 547,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the NQF level for this course?",
+              "id": 18053,
+              "answers": [
+                {
+                  "text": "NQF 5",
+                  "answer_start": 449,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the name of this school?",
+              "id": 18054,
+              "answers": [
+                {
+                  "text": "EXPLORE",
+                  "answer_start": 304,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How many marks do I need to be considered competent?",
+              "id": 18056,
+              "answers": [
+                {
+                  "text": "An overall \n\"competent\" mark equates to about 70%",
+                  "answer_start": 1251,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is a competent mark?",
+              "id": 18057,
+              "answers": [
+                {
+                  "text": "70%",
+                  "answer_start": 1297,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is a pass mark?",
+              "id": 18058,
+              "answers": [
+                {
+                  "text": "70%",
+                  "answer_start": 1297,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How many points is a black belt?",
+              "id": 18059,
+              "answers": [
+                {
+                  "text": ">90%",
+                  "answer_start": 2611,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How many points is a red belt?",
+              "id": 18060,
+              "answers": [
+                {
+                  "text": ">80%",
+                  "answer_start": 2598,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How many points is a brown belt?",
+              "id": 18061,
+              "answers": [
+                {
+                  "text": ">65%",
+                  "answer_start": 2587,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How many points is a blue belt?",
+              "id": 18062,
+              "answers": [
+                {
+                  "text": ">50%",
+                  "answer_start": 2574,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How many points is a green belt?",
+              "id": 18063,
+              "answers": [
+                {
+                  "text": ">40%",
+                  "answer_start": 2562,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How many points is an orange belt?",
+              "id": 18064,
+              "answers": [
+                {
+                  "text": ">30%",
+                  "answer_start": 2549,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How many points is a yellow belt?",
+              "id": 18065,
+              "answers": [
+                {
+                  "text": ">15%",
+                  "answer_start": 2535,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How many points is a white belt?",
+              "id": 18066,
+              "answers": [
+                {
+                  "text": "15%",
+                  "answer_start": 2522,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Will employers know my belt level?",
+              "id": 18067,
+              "answers": [
+                {
+                  "text": "Your belt level will also be displayed on your certificate",
+                  "answer_start": 2616,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What does EGAD mean?",
+              "id": 18068,
+              "answers": [
+                {
+                  "text": "Explain, Gather, Analyse, Deploy",
+                  "answer_start": 3132,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How can I contact explore?",
+              "id": 18070,
+              "answers": [
+                {
+                  "text": "reach out to us at online@explore-ai.net",
+                  "answer_start": 4676,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What if I have more questions?",
+              "id": 18071,
+              "answers": [
+                {
+                  "text": "reach out to us at online@explore-ai.net",
+                  "answer_start": 4676,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How are points allocated?",
+              "id": 18072,
+              "answers": [
+                {
+                  "text": "a VERY rough breakdown is as follows: 33% of points go to Trains, 33% to tests and \n33% to the Predict",
+                  "answer_start": 3742,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How can I track my progress?",
+              "id": 18073,
+              "answers": [
+                {
+                  "text": "Your current belt level and belt score (accumulated total of belt points so far) can be found under \nyour profile in Athena.",
+                  "answer_start": 2819,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Why did my belt points went down?",
+              "id": 18074,
+              "answers": [
+                {
+                  "text": "Occasionally we \nmay also have to slightly change belt point allocations due to errors with tests or submission or \nother administrative gremlins.",
+                  "answer_start": 4123,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What if I don't get enough points?",
+              "id": 18075,
+              "answers": [
+                {
+                  "text": "you will not \nget an accredited qualification, but will still get a certificate of completion",
+                  "answer_start": 2067,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "﻿Scoring at EXPLORE - an explanation\r\nDear EXPLORERs,\r\nA number of you have had questions about your marks for each sprint and what they mean. This \r\ncommunication is meant to address those questions (and hopefully answer one or two you didn’t \r\nknow you had).\r\n \r\nHow do I get marks and what do they mean?\r\nAt EXPLORE the Data Science qualification is aligned with SETA, meaning that when you have \r\nsuccessfully finished with the course, you will have an NQF 5 accredited qualification. Since the \r\ncourse is SETA accredited, you don’t \"pass\" or \"fail\". You are found either \"competent\" or \"not \r\nyet competent\" in a given area, or “unit standard”. The trains, tests and predicts are built to align \r\nwith these unit standards.\r\nIn each Sprint, there are a set number of belt points available. These points are divided among \r\nTrains, Tests and Predicts and align with the various unit standards. Your overall sprint score is \r\nan indication of the proportion of available belt points you have gained for that sprint (i.e. a score \r\nof 70% means that you have gained 70% of the points for that Sprint).\r\nAs you go through the course and complete the material, you accumulate points in unit \r\nstandards. You need to accumulate enough points to be deemed \"competent\". An overall \r\n\"competent\" mark equates to about 70% (or approximately 460) of the belt points available in \r\nthe fundamentals phase. However, this is the bare minimum and we expect the majority of our \r\nstudents will perform much better than this.\r\n \r\nSo if I don’t get 70% for the fundamentals phase, does that mean I fail the course? Will I \r\nbe kicked out if I do badly in any sprint?\r\nNot at all! Belt points are cumulative, so if you do not have enough belt points at the end of \r\nfundamentals, you will have plenty of opportunity to accumulate more through the machine \r\nlearning phase (the second six months) to make up the shortfall.\r\nTherefore, you cannot \"fail\" a sprint and you will not be kicked out of the course. In the unlikely \r\nevent that you do not accumulate the required points throughout the entire course, you will not \r\nget an accredited qualification, but will still get a certificate of completion stating the tools and \r\ntechniques that you have experience with.\r\n \r\nDoes that mean that any belt points above the required amount are meaningless?\r\nNo. Your accumulated belt points are also used to calculate your belt level, which is indicative of \r\nyour mastery of the content. The scales are as follows:\r\nBelt colour\tScore (total accumulated belt points)\r\nWhite:\t\t<15%\r\nYellow:\t\t>15%\r\nOrange:\t\t>30%\r\nGreen:\t\t>40%\r\nBlue:\t\t>50%\r\nBrown:\t\t>65%\r\nRed:\t\t>80%\r\nBlack:\t\t>90%\r\nYour belt level will also be displayed on your certificate, so it’s in your best interest to do as well \r\nas you can, especially if you want to wow future employers.\r\n \r\nSo then how do I track my progress?\r\nYour current belt level and belt score (accumulated total of belt points so far) can be found under \r\nyour profile in Athena. This is the best indicator of your progress. The EGAD diagram shows the \r\nproportion of the total available belt points that you have earned for each EXPLORE basic pillar \r\nof Data Science (Explain, Gather, Analyse, Deploy). This is purely for your own enlightenment, \r\nto give you an idea of where your own strengths lie, but otherwise has no bearing on your marks.\r\n\r\nGreat! Can you tell me how many points each thing is worth so I know what to focus on?\r\nWe’re reluctant to share exact point allocations and weightings for each piece of content. This is \r\nbecause we want to discourage “point chasing” and gaming of the system. Many an EXPLORER \r\nhas found themselves in a difficult place because they spent too much time maximizing belt \r\npoints and too little time understanding the material.\r\nHowever, a VERY rough breakdown is as follows: 33% of points go to Trains, 33% to tests and \r\n33% to the Predict. This will change slightly depending on the sprint and its requirements but \r\nholds more or less true throughout.\r\n\r\nHelp! My points went up/down/disappeared/blew up/took my dog and left in the night!\r\nAthena is a complex beast with lots of calculations going on in the background. Occasionally we \r\nmay also have to slightly change belt point allocations due to errors with tests or submission or \r\nother administrative gremlins. As such, your belt point totals may vary slightly from time to \r\ntime. If you notice a big change or feel that something is wrong, you are welcome to reach out to \r\nus at online@explore-ai.net and we will do what we can to help.\r\n \r\nThanks for the info, but you didn’t address (insert important thing here).\r\nWe’re sure we’ve forgotten something, so if you have any burning questions around this, feel \r\nfree to reach out to us at online@explore-ai.net and we will do our best to give you an accurate \r\nand honest answer.\r\n",
+          "document_id": 29264
+        }
+      ]
+    }
+  ]
+}

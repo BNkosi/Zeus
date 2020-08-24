@@ -1,0 +1,74 @@
+﻿Scoring at EXPLORE - an explanation
+Dear EXPLORERs,
+A number of you have had questions about your marks for each sprint and what they mean. This 
+communication is meant to address those questions (and hopefully answer one or two you didn’t 
+know you had).
+ 
+How do I get marks and what do they mean?
+At EXPLORE the Data Science qualification is aligned with SETA, meaning that when you have 
+successfully finished with the course, you will have an NQF 5 accredited qualification. Since the 
+course is SETA accredited, you don’t "pass" or "fail". You are found either "competent" or "not 
+yet competent" in a given area, or “unit standard”. The trains, tests and predicts are built to align 
+with these unit standards.
+In each Sprint, there are a set number of belt points available. These points are divided among 
+Trains, Tests and Predicts and align with the various unit standards. Your overall sprint score is 
+an indication of the proportion of available belt points you have gained for that sprint (i.e. a score 
+of 70% means that you have gained 70% of the points for that Sprint).
+As you go through the course and complete the material, you accumulate points in unit 
+standards. You need to accumulate enough points to be deemed "competent". An overall 
+"competent" mark equates to about 70% (or approximately 460) of the belt points available in 
+the fundamentals phase. However, this is the bare minimum and we expect the majority of our 
+students will perform much better than this.
+ 
+So if I don’t get 70% for the fundamentals phase, does that mean I fail the course? Will I 
+be kicked out if I do badly in any sprint?
+Not at all! Belt points are cumulative, so if you do not have enough belt points at the end of 
+fundamentals, you will have plenty of opportunity to accumulate more through the machine 
+learning phase (the second six months) to make up the shortfall.
+Therefore, you cannot "fail" a sprint and you will not be kicked out of the course. In the unlikely 
+event that you do not accumulate the required points throughout the entire course, you will not 
+get an accredited qualification, but will still get a certificate of completion stating the tools and 
+techniques that you have experience with.
+ 
+Does that mean that any belt points above the required amount are meaningless?
+No. Your accumulated belt points are also used to calculate your belt level, which is indicative of 
+your mastery of the content. The scales are as follows:
+Belt colour	Score (total accumulated belt points)
+White:		<15%
+Yellow:		>15%
+Orange:		>30%
+Green:		>40%
+Blue:		>50%
+Brown:		>65%
+Red:		>80%
+Black:		>90%
+Your belt level will also be displayed on your certificate, so it’s in your best interest to do as well 
+as you can, especially if you want to wow future employers.
+ 
+So then how do I track my progress?
+Your current belt level and belt score (accumulated total of belt points so far) can be found under 
+your profile in Athena. This is the best indicator of your progress. The EGAD diagram shows the 
+proportion of the total available belt points that you have earned for each EXPLORE basic pillar 
+of Data Science (Explain, Gather, Analyse, Deploy). This is purely for your own enlightenment, 
+to give you an idea of where your own strengths lie, but otherwise has no bearing on your marks.
+
+Great! Can you tell me how many points each thing is worth so I know what to focus on?
+We’re reluctant to share exact point allocations and weightings for each piece of content. This is 
+because we want to discourage “point chasing” and gaming of the system. Many an EXPLORER 
+has found themselves in a difficult place because they spent too much time maximizing belt 
+points and too little time understanding the material.
+However, a VERY rough breakdown is as follows: 33% of points go to Trains, 33% to tests and 
+33% to the Predict. This will change slightly depending on the sprint and its requirements but 
+holds more or less true throughout.
+
+Help! My points went up/down/disappeared/blew up/took my dog and left in the night!
+Athena is a complex beast with lots of calculations going on in the background. Occasionally we 
+may also have to slightly change belt point allocations due to errors with tests or submission or 
+other administrative gremlins. As such, your belt point totals may vary slightly from time to 
+time. If you notice a big change or feel that something is wrong, you are welcome to reach out to 
+us at online@explore-ai.net and we will do what we can to help.
+ 
+Thanks for the info, but you didn’t address (insert important thing here).
+We’re sure we’ve forgotten something, so if you have any burning questions around this, feel 
+free to reach out to us at online@explore-ai.net and we will do our best to give you an accurate 
+and honest answer.
