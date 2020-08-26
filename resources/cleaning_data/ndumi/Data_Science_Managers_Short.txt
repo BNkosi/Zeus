@@ -1,0 +1,212 @@
+DATA SCIENCE  
+FOR MANAGERS
+PROSPECTUS
+ Table of Contents
+EXPLORE Overview 02
+Why Data Science for Managers? 03
+This Course Is For You If You Want 04
+Who Should Take This Course? 05
+How You Will Learn 05
+Requirements 06
+Your Success Team 07
+Your Teaching Team 08
+Curriculum  09
+Data Science 101 09
+Working with data  10
+EXPLORE Philosophy: Solving problems in the real world 11
+Contact Information 12
+01
+ EXPLORE Overview
+EXPLORE is a next generation Learning Institution that teaches students the skills of 
+the future. From Data Science to Data Engineering to Machine Learning to Deep 
+Learning we deliver cutting edge courses to satisfy your hunger to learn. Our 
+Programmes are built by an amazing Faculty - we learn employ some of the world’s 
+most talented Scientists who have experience solving diﬃcult problems on a global 
+stage.
+Our philosophy is to teach our students how to solve problems in the real world. 
+We emphasise teamwork, collaboration and working within constraints, under 
+pressure, with deadlines while understanding context, audience and 
+implementation challenges. We are not a theoretical institution (although we cover 
+the theory) - we are a ‘practical, hands-on, roll-up-your-sleeves and get stuﬀ done’ 
+kind of institution. As real-world Scientists who have delivered impact in the world of 
+work we’re well positioned to deliver these skills.
+EXPLORE launched during 2013 and since then has taught 1,000’s of students and 
+solved many problems for businesses across multiple Industries across the world. 
+We’re reinventing education and invite you to join us to change things for the 
+better.
+02
+ Why Data Science for Managers?
+Four megatrends are fundamentally changing the shape of our world: 
+Unlimited Data Incredible Speed
+Vast amounts of data  The processing speed of our 
+are being generated  machines is increasing 
+every minute.  exponentially.
+Cloud Integration Open Source Algorithms
+We now have cloud providers who  Powerful open source algorithms 
+can store insane amounts of data  that can read, write, translate and 
+for a few dollars.  see are now available to everyone. 
+It is critical that the entire organisation understands the power of data and understands how it can 
+be gathered, analysed and used for business value. Every employee - from CEO to bank teller - 
+needs to appreciate the importance of data so that the organisation can transform to being 
+data-driven and Insights-led.
+03
+ This Course Is For You If You Want To
+This course is 100% for you if these are what you are looking for:
+Improve Your Skills
+Learn the latest advances to turbo-charge your career and set you up 
+for success in the digital age
+Learn New Techniques
+Learn what matters - invest in your career by studying the latest 
+algorithms, cloud solutions, open source tools and data science 
+technologies
+Have a Support Team
+EXPLORE has a large Faculty of Scientists with lots of Academic and 
+real-world experience who are available to support you through the 
+learning process. 
+Solve real-world problems
+EXPLORE exposes you to real-world problems by delivering 
+project-based deliverables where you need to apply your knowledge 
+to solve problems
+04
+ Who Should Take This Course?
+This course is geared towards any employee who needs to understand the importance of data and 
+how it can be used to make better decisions . It will be beneﬁcial to any employee and is critical in 
+the context of the various regulations in play that demand employees handle data with care and 
+due diligence..
+This course is not technical in nature. It is accessible by anyone working in a company from any 
+background. It covers the key concepts of how data is reshaping the world and what companies 
+need to do to harness its power. It is a very practical course that equips learners with information 
+and knowledge so that they and their companies are well positioned for the future.
+How You'll Learn
+Every course is broken down into manageable, weekly units, designed to accelerate your learning 
+process through diverse learning activities: 
+Work through downloadable content and online instructional material
+Interact with your peers and learning facilitators through real-time chat 
+platforms and regular live webinars.
+Enjoy a wide range of interactive content, including video lectures, coding 
+challenges, hackathons, and presentations.
+Investigate real-world case studies.
+Learn how to use Jupyter Notebook, GitHub, Power BI, AWS, and various 
+machine learning models.
+Apply what you learn each week to quizzes, coding challenges and ongoing 
+project submissions, culminating in the ability to use real-world data to solve a 
+real-life problem.
+05
+ Software Requirements
+BASIC REQUIREMENTS
+Basic computer literacy is essential for successful completion of the course. To complete the 
+course, you will need a current email account and access to a computer and the internet, as well as 
+a PDF Reader. You may need to make use of the Google oﬃce suite, which is free to anyone with a 
+Gmail account. Alternatively, Microsoft Oﬃce applications (such as PowerPoint and Word) may be 
+used. We recommend using Google Chrome to access the course, but any popular browser should 
+suﬃce.
+TECHNICAL REQUIREMENTS
+● Recommended OS: Since we make use of Windows based apps (such as Power BI), Windows 10 
+is recommended (Windows 7 minimum)
+● Processor: Minimum i3. Baseline higher than 2GHz 
+● RAM: Minimum 4GB 
+● Bandwidth: 20GB data per month should be suﬃcient, but will vary based on your personal 
+activity 
+● Communication: Webcam and Microphone
+ADDITIONAL REQUIREMENTS
+Certain activities may require additional software and resources. In such cases, we will ensure that 
+they will operate properly on a device with the above-mentioned speciﬁcations and will be clearly 
+communicated to you during the completion of the course. Please note that Google, Vimeo, YouTube, 
+Udemy and Datacamp may be used in our course delivery, and if these services are blocked in your 
+jurisdiction, you may have diﬃculty in accessing course content. Please check with a Course 
+Consultant before registering for this course if you have any concerns about this aﬀecting your 
+experience with the Online Campus.
+06
+ Your Success Team
+EXPLORE has a range of Faculty members at hand to assist you if you get stuck during your learning 
+journey. We have experts readily available to assist you for when things get tricky - they have a wealth 
+of experience with the material and are a friendly message away to help you on your way.
+Head Tutor
+A subject matter expert who'll guide you through content-related 
+challenges. 
+Success Manager
+Your one-on-one support available during working hours (8am-5pm 
+SAST) to resolve any challenges that you may have
+Administration Support
+Available 24/7 to solve your software, tech and administrative queries 
+and concerns. 
+07
+ Your Teaching Team
+These EXPLORERs built the course you will go through - they have loads of experience working with 
+the tools and technologies you will learn and had fun building something awesome for you to learn.
+SUBJECT MATTER EXPERT
+Jaco Jansen van Rensburg
+Lead Instructor
+Jaco is a Lead Data Scientist in the EXPLORE Data Science Academy. He has spent the bulk of his 
+career on scientiﬁc and industrial research and holds a PhD in Mechanical Engineering with a focus 
+on mathematical modelling and optimisation.
+YOUR COURSE CO-CONVENORS
+These subject matter experts guide the course design and appear in a number of course videos, 
+along with a variety of industry professionals. 
+Jonathan Gerrand
+Lead Instructor
+Jonathan is an electrical engineer specialising in biomedical image processing and machine learning 
+(MSc). Having been a founding member of the Data Science for Impact and Decision Enablement 
+(DSIDE) program within the CSIR, he is passionate about teaching, innovating for good, and equipping 
+others to reason within a data driven world. Jonathan loves the outdoors, is unashamedly nerdy, and 
+relishes a compelling debate.
+Jonathan Botha
+Data Scientist
+Jonathan has his PhD in Genetics. He decided to leave the world of Academia and pair his unique 
+perspective and insight with Data Science in order to see what strange and interesting things unfold. 
+He also unashamedly prefers tea to coﬀee.
+08
+ Curriculum Overview
+Dat Science for Managers
+Duration: 3 Months Recommended Time: 80 hours
+Pre-Requisite Skills: Basic analytical background
+Tools Learnt:
+What is covered in this course:
+A. Data Science 101 
+The Data Science Process
+The importance of data
+Recent trends
+Practical examples
+Gathering and Analysing data 
+Collecting data
+Analysing data
+Using data to solve problems
+09
+ Data Literacy
+B. Working with data 
+Working with data
+Data governance
+Gathering and analysing data
+Building models to predict outcomes
+Business applications
+Visualising data
+Telling stories with data
+Using data to understand business problems
+   
+Building interactive dashboards
+Drill-down reporting
+10
+ EXPLORE Philosophy: Solving problems in the real world
+At EXPLORE we focus on building our student’s ability to solve problems in the real world. Building 
+things that work and make a diﬀerence is hard - that’s what we teach.
+We’re not a traditional learning institution that spends weeks teaching matrix multiplication on a 
+whiteboard (although understanding that is useful) - we’re a practical, solution-oriented institution 
+that teaches our students to work in teams, under pressure, with deadlines while understanding 
+context, constraints and the audience.
+Our courses are typically broken into Sprints where we teach a core set of concepts within the 
+framework of solving a problem in a team with a tight deadline.
+1 2 3
+Students cycle from Sprint to Sprint solving diﬀerent problems in diﬀerent teams as they build this 
+core muscle over the course.
+11
+ DATA SCIENCE 
+FOR MANAGERS
+PROSPECTUS
+Start a new career today by enrolling in one of our Data Science, Data 
+Analytics or Data Engineering courses.
+Admission Related Enquiries Mail:
+admissions@explore-ai.net
+General Enquiries Mail:
+general@explore-ai.net
+WWW.EXPLORE-DATASCIENCE.NET
+ 

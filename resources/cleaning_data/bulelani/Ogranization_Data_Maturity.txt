@@ -1,0 +1,171 @@
+Data Maturity
+Where are you
+on your journey?
+ The Road to Excellence
+The journey to becoming an end-to-end data-centric organisation that makes 
+quality data-driven decisions at high velocity is difﬁcult and long. Many organisa-
+tional habits and reﬂexes need to die to get there. Nothing short of a total transfor-
+mation of the culture, people and processes are required. Like any transformation, 
+the process is slow and painful.
+Maturity is much more than having the best Data Scientists who build the best 
+models. That is the easiest part of the journey. The difﬁcult part is mobilising and 
+transforming the entire organisation to behave entirely differently to how they 
+behaved before.
+In this paper we share how we view an organisation’s Data Maturity and what are 
+the behaviours, practices and methodologies that indicate where an organisation 
+sits on the maturity curve.
+VISUALISATION 
+5 COMMUNICATION AND 
+IMPLEMENTATION
+AGILITY 
+CULTURE AND  4
+ORGANISATIONAL IMPACT
+ANALYTICS 
+3 TOOLS AND 
+TALENT
+DATA 
+DISCOVERABILITY AND  2
+INFRASTRUCTURE
+STANDARDS, 
+1 STRUCTURES AND 
+BEST PRACTICE CODES
+1
+ Five Key Dimensions  
+We think there are ﬁve dimensions to be mindful of during the journey. These are:
+1. STANDARDS, STRUCTURES AND BEST PRACTICE CODES
+This is the boring but important part. Organisations are big places that often 
+stretch across multiple countries, business units and divisions. To enable solutions 
+to scale at speed there must be consistent standards and practices in place so that 
+different teams can work seamlessly together. 
+Often a Centre of Excellence needs to be put in place to drive this agenda. This 
+Centre will be in charge of setting standards, reviewing code and monitoring per-
+formance of Production models. They are also sometimes in charge of solving 
+some of the big problems or building some of the core models that can be rolled 
+out.
+The work is difﬁcult and thankless: setting up the various frameworks, methodolo-
+gies, Committees and best-practice guidelines to ensure consistency, excellence 
+and minimum standards is not easy. These best practices need to be a living docu-
+ment and change as the technology landscape changes. Not many organisations 
+get this right as this work is at the back of the queue for the Data Science commu-
+nity (who would rather be writing code than writing documents).
+Unfortunately, we also ﬁnd the inevitable politics when a Centre of Excellence is 
+Standards Structures Practice Codes
+2
+ 2. DATA, DISCOVERABILITY AND INFRASTRUCTURE
+Without a solid data foundation an organisation cannot get very far on its journey. 
+It surprises us how many organisations trip up at this starting point. Although 
+there has been decades of investment in data warehouses and large enterprise 
+data  solutions,  many  organisations  have  data  environments  that  are  poorly 
+deﬁned with missing tables, dictionaries and patchy governance.
+Data governance has received signiﬁcant attention from all the companies we’ve 
+worked with. Efforts to drive availability, security, consistency and integrity are set 
+at a Board level and taken very seriously. Yet, despite this, the data environment 
+often requires lots of work to get it to a point where the Data Science capability can 
+begin. 
+Add to this the new world of blending structured and unstructured data in the 
+cloud within data lakes and we ﬁnd that companies have large gaps to ﬁll in this 
+area. 
+Data Discoverability Infrastructure
+What makes it even more difﬁcult is the numerous pieces of data legislation 
+emerging that prohibit the sharing, consumption and use of data. This often 
+leaves companies paralysed with fear, leaving many business decisions to Compli-
+ance Departments who naturally will say “No” as a reﬂex. 
+3
+ 3. ANALYTICS, TOOLS AND TALENT
+We ﬁnd you can tell a lot about a company’s maturity by spending an hour with a 
+few of their Analysts. The tools they use, the qualiﬁcations they have and the types 
+of models they use reveals a lot.
+A sure sign that there is some work to do are a team that last studied 5+ years ago 
+and largely work on Excel and SQL. Another sign that there are some problems is 
+when analysts are unable to install open source software (eg Python) as this is a 
+3-month IT request.
+With the exponential advances in machine learning algorithms, cloud computing 
+and open source technologies we love it when we see agile teams of Scientists 
+who are using the latest technology and continuously learning. This is quite rare in 
+large organisations but quite common in nimble start-ups.
+Analytics Tools Talent
+4. AGILITY, CULTURE AND ORGANISATIONAL IMPACT
+Although subjective and hard to measure these items are some of the most 
+important.  Without  the  right  culture  across  the  organisation  Data  efforts  are 
+doomed to fail from the start. What is needed is support from the CEO down-
+wards where data-driven decisions are non-negotiable at every level.
+4
+ What we love to see are small autonomous teams set up to solve big, thorny prob-
+lems. Organisations that give smart creative teams the space and freedom to 
+solve problems are the ones that make the fastest progress. We also ﬁnd that 
+organisations that have an appetite to experiment and rapidly test the latest 
+advances in an agile way are the ones that capture the most value. 
+What works is companies that gives smart creative digital teams the space and 
+freedom to solve problems using new methods that have not been tried before.
+Organisational
+Agility Culture
+Impact
+5. VISUALISATION, COMMUNICATION AND IMPLEMENTATION
+Actually deriving real business value from your Analytics efforts is an art unto itself 
+and the difﬁculty under-estimated. Moving from neat PowerPoint presentations 
+to production-ready models that the front-line uses is not a trivial task.
+To get this right entails an organisational muscle that most do not have: the ability 
+to build practical solutions that non-technical stakeholders understand and that 
+can be implemented amid  the messiness of the current IT systems. Once this is 
+achieved the even harder task of change management across the organisation is 
+required.
+Only mature organisations continuously roll out Data Science solutions into pro-
+duction that improve decision making that business adopts as a matter of course.
+5
+ Visualisation Communication Implementation
+EXPLORE Maturity Matrix
+Below is a matrix we use to help us assess the maturity of an organization with the 
+various levels set out to see:
+STANDARDS,  DATA,  ANALYTICS,  AGILITY, CULTURE AND  VISUALISATION, 
+STRUCTURES AND  DISCOVERABILITY AND  TOOLS AND  ORGANISATIONAL  COMMUNICATION AND 
+BEST PRACTICE  INGRASTRUCTURE TALENT IMPACT IMPLEMENTATION
+Reports Shared Amongst 
+BELEGVINENL E1 R  AutoInnodmivioduusalyl  OInp Berlaactek  Box LimitAendd D Hataar dU Tsoe dR, eSptororeddu cLeocally  UOnlddV eTarolsuotlaesn ,O Adfvi nDegraa tOgafe S P Tcoaiewlenencrte ,A Nnod   RemWovoIenrdkte  FIgnrr oQamlu T aOor trBeguralsyni niCseaystcsiloens;;  Not  WAnitahl yOstths;e TNro oS U tRanekdaeelh rEsoftlfadonertdr s T; oD iSfﬁhcaurelt  
+YELLOW BELT
+INBTELLRUEMVEE EBLDE 2ILA TTE  RLeogousCleao rCm Dopilslaacrbuinosgrsai oNtinoo ntFe oWsruitmh s  SeaLCrocethsn iOtnrgaf lD lFyao Wtra W iUthhs eaDtdi fI, ﬁsS cNtuoerlteeydd e d PrSomTboaloerlmts  PA SentodaIptn Ael eNmlg Uaoetsrnuiinttrhseg;m  DOseu; stCcdlraeiptaetrid v e  AOdAvdvaeonrplcyte  ATsoc;  NaNdoeBetwu mUs Isiinncef edoTse rTsmahmaattl i SMolnou wAchn T doB  y  TeISncEtthaexntpriniclcaa aRilnl e CA ApTunouosd rdtNto iCsoem lnSnueh-cnTreaeksr;yce Rlhd Hen Wpaicoraidrtlth  Ts o  
+ELXEPVEERLT 3S   FoMruPamArnonu cTaaeollsy lMysti  cFEosonn rCfimtooormrac elAimsdne;d udC n MeAintnaytndraa lg e  InCBteeinrgnt rDaala lAltyan,R  EdSea epSstrtysor  uTUdocus teAcudecr,ec Ledas, rsSg tAeonlryed d   SAmnPPQadrreou tPrb efProlsoeetrvmimooepnns lW se WA  AeUleglnsll;oldi ;nA r PiSgstrkth eRrimundecgicsct ;et GuMinvroiteono  TdIgdone  o lsls   OAFroglgrao nDrBiiestuhacsitmsiinoiosne nTs Lssh;o  aDAotnek Dcsa erlTyisvotieio cA nCsn srBaitluiycirlaidcl  s  ASrteiAct unOldaf  tDHeao WswPheh bTrafhotoae rTrimerd aAsinm lTgghso aArtitr Che mlDeaosr ilnyg  
+RED BELT Nature
+Amazing Talent, Using The 
+Extensive Big Data Sets Used  Latest ML Techniques And  Appetite To Experiment; Rapidly 
+Best Practices Codiﬁed Into  (Both Internal And External,  Platforms; Asking The Right  Test Latest Advances In An Agile  Interactive Real-Time Dashboards 
+Organisation With Clear Review,  Structured And Unstructured),  Question And Solving For  Way; Output Integral To  For Non-Technical Users To 
+BLLNAEICVNKEJ ALB SE4 L T Do3c LuimMnSeaeisgnn Onatag fO tDeiofmefn fAee Onnndftc lB e MC;e eAosntdn tPearllar yalt cictisc e;  EaAsinlyd S SeeaIcnrucfhrraeas;b tWrleue,c lRlt ueGrpoervoedrnuecidb le  FrTohnUgtpPieederriarg fOtohinfrt mAg Pn aOraonflb cyMletei ocmMds;ese R,tl srOei cAansln -;T Tdhim e e  RVO1a0rlg0uamen I'inss taOotfO i ToVuhnate;l puI Onuesrt iDgsgaehnptises naDtdriio vOnen;    MCoondseulsm Aen; OdU uCsetlpersau rUt sOnnd eInrsptuantsd /  
+Prescriptive In Nature
+6
+ To assess the maturity we typically spend a week in the organisation interviewing 
+various Executives across the organisation as well as key role players in the Data 
+teams. We score the organisation across the 5 Dimensions (15 Areas) above and 
+end with a scorecard that assesses the company across the matrix.
+Once we have completed the EXPLORE Maturity Matrix we sit with business and 
+- Their ‘centre of gravity’ - where they sit across the matrix and how mature 
+they generally are
+- Where the big gaps are in the organisation
+-  A  robust  plan  on  what  initiatives  and  activities  to  focus  on  -  in  what 
+sequence - to move the company forward. 
+7
+ ABOUT EXPLORE
+EXPLORE is a next generation learning institution on a mission to deliver Digital 
+Skills at scale. It has worked with many Blue Chips, both locally and globally, help-
+ing them transform to become more Data-Driven and Insights-led.
+Our services include:
+BUILDING A PIPELINE OF DATA UPSKILLING YOUR
+TALENT FOR YOUR ORGANIZATION CURRENT WORKFORCE
+EXPLORE teaches a range of cours- We have a range of short and long 
+es that include Data Science, Data  courses for your workforce so that 
+Analytics, Data Engineering and  they are ready to reset their skill-sets 
+Data Translation where you can  and turbo-charge their careers into 
+sponsor the next generation of  the Digital Age.
+digital talent.
+PLACING SCARCE DIGITAL PRODUCTS AND
+SKILLS INTO YOUR BUSINESS SERVICES
+We have access to a long list of  We have some of the best Scientists 
+talented skills that we can match to  around who have decades of experi-
+your company’s needs to best set  ence solving problems, both locally 
+you up for success. and globally. Currently we’re work-
+ing for Blue Chips in South Africa 
+and across the UK in the Utulities 
+and Financial Services industries.
+ 
+8
+ EXPLORE-DIGITAL.NET
+ 

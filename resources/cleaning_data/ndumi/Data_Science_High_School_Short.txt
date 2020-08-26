@@ -1,0 +1,110 @@
+DATA SCIENCE 
+FOR HIGH SCHOOL
+PROSPECTUS
+ Table of Contents
+1. EXPLORE Overview
+2. Why Visualisation?
+3. Curriculum Overview
+4. EXPLORE Philosophy: Solving problems in the real 
+world
+5. Contact Information 
+ EXPLORE Overview
+EXPLORE is a next generation Learning 
+Institution  that  teaches  students  the 
+skills of the future. From Data Science to 
+Data Engineering to Machine Learning 
+to  Deep  Learning  we  deliver  cutting 
+edge courses to satisfy your hunger to 
+learn
+learn. Our Programmes are built by an amazing Faculty -  we 
+employ some of the world’s most talented Scientists who have 
+experience solving difﬁcult problems on a global stage. 
+Our philosophy is to teach our students how to solve problems 
+in the real world. We emphasise team-work, collaboration and 
+working  within  constraints,  under  pressure,  with  deadlines 
+while  understanding  context,  audience  and  implementation 
+challenges. We are not a theoretical institution (although we 
+cover  the  theory)  -  we  are  a  ‘practical,  hands-on, 
+roll-up-your-sleeves and get stuff done’ kind of institution. As 
+real-world Scientists who have delivered impact in the world of 
+work we’re well positioned to deliver these skills. 
+EXPLORE  launched  during  2013  and  since  then  has  taught 
+1,000’s of students and solved many problems for businesses 
+across multiple Industries across the world. We’re reinventing 
+education and invite you to join us to change things for the 
+better.
+ 
+ Why Data Science?
+Four megatrends are fundamentally changing the shape of our 
+world: 
+1. Vast amounts of data are being generated every minute. 
+2. The  processing  speed  of  our  machines  is  increasing 
+exponentially.
+3. We  now  have  cloud  providers  who  can  store  insane 
+amounts of data for a few dollars. 
+4. Powerful  open  source  algorithms  that  can  read,  write, 
+translate and see are now available to everyone. 
+Data Science is the skillset used to harness the power of these 
+tectonic  shifts  in  our  world.  With  the  Data  Scientist’s  tool-kit 
+almost any problem can now be solved.
+It is no surprise that Data Scientists are one of the most highly 
+paid and in demand skills of the 21st Century. In fact, the job 
+‘Data  Scientist’  was  rated  the  ‘sexiest  profession  of  the  21st 
+Century’ by the Harvard Business Review.
+ Curriculum
+Data Science for High School
+Duration: 6 months Recommended Time: 100 hours
+Tools Learnt:
+What is covered in the course:
+Program
+➔ Intro to google colab
+Building blocks to 
+➔ Practical data science examples
+analyse data
+➔ Python data types - numbers, objects, 
+variables, booleans, operators
+➔ Conditionals, functions, loops
+➔ DataCamp courses to sharpen python skills
+Present
+➔ Basics of data visualisation in Python using 
+Visualising and 
+libraries like matplotlib
+interpreting 
+➔ Using Bokeh library to create interactive 
+insights
+dashboards and charts
+Predict
+➔ Introducing the world of prediction
+Make sense of 
+➔ Build a linear regression model in Python
+the future
+➔ Statistical knowledge required for supervised 
+learning
+➔ Supervised learning algorithms using Scikit 
+Learn library
+➔ Classiﬁcation algorithms - logistic regression 
+and support vector machines
+ EXPLORE Philosophy: 
+Solving problems in the real world
+At EXPLORE we focus on building our student’s ability to solve 
+problems in the real world. Building things that work and make 
+a difference is hard - that’s what we teach. 
+We’re not a traditional learning institution that spends weeks 
+teaching  matrix  multiplication  on  a  whiteboard  (although 
+understanding  that  is  useful)  -  we’re  a  practical, 
+solution-orientated  institution  that  teaches  our  students  to 
+work  in  teams,  under  pressure,  with  deadlines  while 
+understanding context, constraints and the audience. 
+Our courses are typically broken into Sprints where we teach a 
+core set of concepts within the framework of solving a problem 
+in a team with a tight deadline.
+Students cycle from Sprint to Sprint solving different problems 
+in  different  teams  as  they  build  this  core  muscle  over  the 
+course.
+ Contact Information
+For any admissions related enquiries mail us on: 
+admission@explore-ai.net
+For any general enquiries mail us on: 
+general@explore-ai.net 
+Visit: www.explore-datascience.net 
+ 

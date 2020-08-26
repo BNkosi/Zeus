@@ -1,0 +1,39 @@
+Vacancy : Senior Data Engineer
+Vacancy : Senior Data Engineer
+ 
+EXPLORE is looking for a talented individual who has a flair for solving difficult problems and a passion for teaching. As a Senior Data Engineer
+your primary experience and proven track record should be in the design, development, implementation and maintenance of scalable and robust
+data pipelines and integrated solutions to scale models developed and used by Analysts and Data Scientists. 
+EXPLORE is also a learning institution and as such lecturing experience at a Higher Education Institution or University is highly desired. 
+Finding a spiritual home within the learning environment within the Academy, you will also be tasked with the distillation of your knowledge in the
+form of creating curricula content, facilitating relevant course lectures, and delivering training in the form of bootcamps to audiences of various
+technical levels. 
+As a Senior member of the EXPLORE rocket, you will also lead teams and people in solving difficult problems. You will be expected to deliver
+frequently, while being given loads of autonomy and responsibility to do this.
+Responsibilities:
+Focused development of content that teaches and assesses Data Engineering
+Deliver technical bootcamps to upskill corporate South Africa
+Ability to design and develop scalable, automated ETL solutions to populate and aggregate data from multiple sources.
+Ensure data quality of variable, large, complex data sets
+Running a small team of engineers, scientists and developers
+Designing and implementing cloud-based infrastructure specifications. 
+Take ownership and accountability of data and code quality
+Independent, self motivated with good time management and communication skills
+Able to work in a highly dynamic start-up environment
+Requirements:
+A Masters Degree in a relevant Engineering or Scientific field ( Software Engineering and Systems Development preferred)
+Lecturing / Teaching experience in a Higher Education Institution or University (highly desired) 
+At least 3-years work experience in a related STEM field
+Portfolio of projects that illustrate a focus on collecting, transforming, managing data
+Experience with Git and Github
+Experience with CI/CD technologies
+Top academic performance
+Evidence of interest in continual learning (e.g. online course completion, presented talks and contributions to open-source projects)
+Ability to work effortlessly in Python, SQL, Shell scripting
+AWS/Azure certified an advantage
+Proven experience in Big Data Tools (Hadoop / Spark / Hive / Kafka … )
+ 
+How to apply
+Please send a recent CV and a cover letter to careers@explore-ai.net
+ 
+ 

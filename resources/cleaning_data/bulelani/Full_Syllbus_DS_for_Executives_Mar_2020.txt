@@ -1,0 +1,159 @@
+DATA SCIENCE
+for EXECUTIVES
+PROSPECTUS
+ Table of Contents
+1. EXPLORE Overview
+2. Why Data Science?
+3. Curriculum Overview
+a. Module 1: What is Data Science?
+b. Module 2: Data-Driven Decision-Making
+c. Module 3: Deploying the Right Skills
+4. EXPLORE Philosophy: Solving problems in the real world
+5. Contact Information 
+ EXPLORE Overview
+EXPLORE is a next generation Learning 
+Institution  that  teaches  students  the 
+skills of the future. From Data Science to 
+Data Engineering to Machine Learning 
+to  Deep  Learning  we  deliver  cutting 
+edge courses to satisfy your hunger to 
+learn
+learn. Our Programmes are built by an amazing Faculty -  we 
+employ some of the world’s most talented Scientists who have 
+experience solving difﬁcult problems on a global stage. 
+Our philosophy is to teach our students how to solve problems 
+in the real world. We emphasise teamwork, collaboration and 
+working  within  constraints,  under  pressure,  with  deadlines 
+while  understanding  context,  audience  and  implementation 
+challenges. We are not a theoretical institution (although we 
+cover  the  theory)  -  we  are  a  ‘practical,  hands-on, 
+roll-up-your-sleeves and get stuff done’ kind of institution. As 
+real-world Scientists who have delivered impact in the world of 
+work we’re well positioned to deliver these skills. 
+EXPLORE  launched  during  2013  and  since  then  has  taught 
+1,000s of students and solved many problems for businesses 
+across multiple Industries across the world. We’re reinventing 
+education and invite you to join us to change things for the 
+better.
+ 
+ Why Data Science?
+Four megatrends are fundamentally changing the shape of our 
+world: 
+1. Vast amounts of data are being generated every minute. 
+2. The  processing  speed  of  our  machines  is  increasing 
+exponentially.
+3. We  now  have  cloud  providers  who  can  store  insane 
+amounts of data for a few dollars. 
+4. Powerful  open  source  algorithms  that  can  read,  write, 
+translate and see are now available to everyone. 
+Data Science is the skillset used to harness the power of these 
+tectonic  shifts  in  our  world.  With  the  Data  Scientist’s  tool-kit 
+almost any problem can now be solved.
+It is no surprise that Data Scientists are one of the most highly 
+paid and in demand skills of the 21st Century. In fact, the job 
+‘Data  Scientist’  was  rated  the  ‘sexiest  profession  of  the  21st 
+Century’ by the Harvard Business Review.
+ Curriculum Overview
+This course will help you - a business leader or executive - to 
+harness  the  data  likely  already  present  in  your  organisation, 
+utilise  insights  from  technical  analytics  teams  to  inform  the 
+direction of your business, and deploy the right technical skills 
+in order to succeed as a data-driven company.
+Duration: 8 weeks Time Per Day: 1.5 hours
+Course Difficulty: Intermediate
+Pre-Requisite Skills: None; Leadership experience beneﬁcial
+Phase  Module  Duration
+Introduction What is Data Science? Principles &  2 weeks
+Trends
+Steering the Ship Data-Driven Decision-Making 3 weeks
+Attitude & Aptitude Deploying the Right Skills 3 weeks
+ Module 1
+What is Data Science?
+1 2 3 4 5 6 7 3
+An introduction to the principles, trends, terminology and 
+common practices of data science.
+What is covered in Module 1:
+Fundamentals
+➔ Industry terminology
+Introduction
+➔ The EXPLORE data science framework
+➔ Tools of the trade
+➔ A brief history of data science
+State of Data 
+➔ Current global trends
+Science
+➔ Data science in action worldwide
+➔ Problem statement for the rest of the course
+Use Cases
+➔ Introducing the dataset
+ Module 2
+Data-Driven Decision-Making
+1 2 3 4 5 6 7 8
+Project: Deliver a report summarising the state of data in your 
+organisation, with clear problems identiﬁed and 
+proposed solutions.
+What is covered in Module 2:
+Data Identiﬁcation
+➔ Where is your data stored?
+Fundamentals
+➔ How much is there of it?
+➔ What type of data is it?
+Business Alignment
+➔ What can be improved with data?
+Objectives
+➔ Deﬁning KPIs and goals
+➔ Collecting the right data
+Measuring Success
+➔ Understanding predictive models
+Performance
+➔ Statistical signiﬁcance and hypothesis testing
+➔ Classiﬁcation vs. regression
+ Module 3
+Deploying the Right Skills
+1 2 3 4 5 6 7 8
+Project: Deliver a report stating a clear data-driven direction for 
+your business, including potential hires and technology 
+deployments.
+What is covered in Module 3:
+People
+➔ Identifying the skills you have and those you 
+Aptitude
+need
+➔ Building a data science/analytics team
+Technology
+➔ Cloud providers
+Hardware
+➔ Pipelines: gathering, transforming, storing data
+➔ The importance of reporting and dashboards
+Software
+➔ Data visualisation software
+➔ Choosing types of databases and 
+programming languages
+➔ AGILE development practices
+Dev Ops
+➔ Critical resources
+➔ Assigning responsibility appropriately
+ EXPLORE Philosophy: 
+Solving problems in the real world
+At EXPLORE we focus on building our students’ abilities to solve 
+problems in the real world. Building things that work and make 
+a difference is hard - that’s what we teach. 
+We’re not a traditional learning institution that spends weeks 
+teaching  matrix  multiplication  on  a  whiteboard  (although 
+understanding  that  is  useful)  -  we’re  a  practical, 
+solution-oriented institution that teaches our students to work 
+in teams, under pressure, with deadlines while understanding 
+context, constraints and the audience. 
+Our courses are typically broken into Sprints where we teach a 
+core set of concepts within the framework of solving a problem 
+in a team with a tight deadline.
+Students cycle from Sprint to Sprint solving different problems 
+in  different  teams  as  they  build  this  core  muscle  over  the 
+course.
+ Contact Information
+For any admissions related enquiries mail us on: 
+admission@explore-ai.net
+For any general enquiries mail us on: 
+general@explore-ai.net 
+Visit: www.explore-datascience.net 
+ 

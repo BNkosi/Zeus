@@ -1,0 +1,249 @@
+A Data Science
+Team
+Choosing the right asset
+ allocation strategy
+ Setting up the Dream Team
+A few years ago it was common practice for an organization to ‘just get a few Data 
+Scientists on a team’ to solve the problem. Put differently: ﬁnd a few pink unicorns, 
+put them in a room, wave a wand and watch the magic unfold. Unfortunately, it is 
+not this simple.
+ 
+To deliver value a team requires a combination of different skills to be effective. 
+These skills/roles are expanding quickly and will continue to grow as businesses 
+become more mature in this space. 
+ANALYTICS TRANSLATOR
+Analytics translators play a critical role in bridging the technical expertise of data 
+engineers and data scientists with the operational expertise of marketing, supply 
+chain, manufacturing, risk, and other frontline managers. In their role, translators 
+help ensure that the deep insights generated through sophisticated analytics 
+translate into impact at scale in an organization.
+Analytics translators should combine a deep understanding of domain knowl-
+edge and of the company itself. Many translators will come from quantitative 
+ﬁelds and possess advanced critical thinking and problem-solving abilities. How-
+ever, translators do not need to get bogged down in the smaller details of model 
+building and deep analytics, but rather focus on project management and have a 
+working understanding of the models that are often used to solve particular busi-
+ness problems, e.g. RNNs for sequential data. 
+BUSINESS 
+SKILLS
+Business  Delivery 
+Leaders Managers
+Data  Analytics 
+Architects Translator
+Workﬂow 
+Integrators
+TECHNOLOGY  ANALYTICS 
+SKILLS Data  SKILLS
+Scientists
+Data  Visualization 
+Engineers Analytics
+1
+ DATA SCIENTIST
+A  Data  Scientist  uses  scientiﬁc  methods,  algorithms  and  systems  to  extract 
+insights from structured and unstructured data. Data Scientists have a strong 
+blend of mathematics, computer science and statistical skills and have strong 
+problem-solving capabilities. They also possess the softer communication skills 
+that help them translate complex model output into valuable business input. 
+A Data Scientist typically has an advanced level of education (Master’s degree or 
+PhD) as the role requires a specialised depth of knowledge. Most data scientists 
+come from quantitative ﬁelds, with the largest group coming from Mathematics 
+and Statistics, followed by Computer Science and Engineering. 
+Having an advanced degree is a necessary but not a sufﬁcient condition for being 
+a Data Scientist. The key to being a successful Data Scientist is to continue learning 
+even  after  formal  education.  This  includes  online  courses,  competitions  (e.g. 
+Kaggle) and certiﬁcations in relevant platforms (e.g. Amazon’s AWS Cloud).
+Example: 
+A Data Scientist typically possesses the following:
+Good knowledge of Python and/or R
+A knack for statistical analysis and predictive modeling
+Experience with SQL and NoSQL databases
+A knack for statistical analysis and predictive modeling
+2
+ Solid understanding of machine learning techniques
+Knowledge of data management and visualization
+techniques
+MATH, STATS, 
+ALGORITHMS
+Data  Data 
+Engineer Analyst
+Data 
+Scientist
+SOFTWARE  DATA 
+ENGINEERING COMMUNICATION
+DATA ENGINEER
+Data Engineers are the data professionals who prepare the “big data” infrastruc-
+ture to be analyzed by Data Scientists. They are engineers who design, build and 
+integrate data from various resources, and manage big data. Then, they write 
+complex queries on that, make sure it is easily accessible, works smoothly, and 
+their goal is optimising the performance of their company’s big data ecosystem.
+3
+ Data Engineers typically focus on coding in a wide range of programming lan-
+guage from Java and Scala to Python, cleaning up data sets and developing data 
+pipelines, and dealing with requests from Data Scientists as their data needs 
+evolve.
+Data Engineers are the crucial link between the models developed by Data Scien-
+tists and their execution in a production environment. They usually possess a deep 
+knowledge of data storage and warehousing solutions, and programming frame-
+works  such  as  Hadoop  and  Spark  that  can  help  you  source  data  and  run 
+data-heavy implementations on a clustered data architecture.
+Example: 
+Advanced working SQL knowledge and experience
+working with relational databases, query authoring (SQL)
+as well as working familiarity with a variety of databases
+Experience building and optimizing ‘big data’ data
+pipelines, architectures and data sets
+Experience performing root cause analysis on internal and
+external data and processes to answer specific business
+questions and identify opportunities for improvement
+Strong analytic skills related to working with
+unstructured datasets
+4
+ Experience with relational SQL and NoSQL databases,
+including Postgres and Cassandra
+Experience with object-oriented/object function scripting
+languages: Python, Java, C++, Scala, etc
+SKILLS
+Advanced  Advanced 
+Math/Statistics Programming
+Analysis
+Distributed 
+ML/AI
+Programming Systems
+Big Data
+Advanced  Data 
+Analytics Pipelines
+Data Scientist Data Engineer
+DATA ANALYST
+Data Analysts are experienced data professionals in their organization who can 
+query and process data, provide reports, summarize and visualize data. They have 
+a strong understanding of how to leverage existing tools and methods to solve a 
+problem, and help people from across the company understand speciﬁc queries 
+with ad-hoc reports and charts.
+5
+ Data Analysts are typically skilled in data processing and manipulation, using 
+mostly Excel to do so, although analytics dashboard platforms such as Tableau and 
+Qlik Sense provide new tools for data-rich reporting. 
+Example: 
+A Data Analyst typically possesses the following:
+Passion for data, automation and a curious learner of
+new concepts and technologies
+Extensive SQL programming experience 
+Experience of tools like Tableau, QlikView or PowerBI 
+Good knowledge of Microsoft Excel
+Good verbal and written communication skills 
+NEXT PAGE SHOWS A SET OF DATA ANALYIST REQUIRED SKILLS IN A DIAGRAM
+6
+ Knowledge  Data 
+About  Mining & 
+Analytical  Data 
+Tools Auditing
+Data  SKILLS Testing 
+Visualisation Skills
+Basic 
+Machine 
+Statistical 
+Learning
+Skills
+AI ENGINEERS
+AI Engineers build, test, and deploy AI models, as well as maintain AI infrastruc-
+ture. They are problem-solvers who can navigate between traditional software 
+development and machine learning implementations. 
+Example: 
+An AI Engineer can have many responsibilities in IT organizations, including:
+Coordinating between Data Scientists and Business
+Analysts
+7
+ Converting machine learning models into APIs so that
+other applications can access them
+Testing and deploying models
+Developing minimum viable products based on
+machine learning
+Automating processes by utilizing machine learning
+Using AI to empower the company with novel capabilities
+BUSINESS INTELLIGENCE DEVELOPERS
+Business Intelligence Developers are data experts that interact more closely with 
+internal  stakeholders  to  understand  the  reporting  needs,  and  then  to  collect 
+requirements, design, and build BI and reporting solutions for the company. They 
+have to design, develop and support new and existing data warehouses, ETL pack-
+ages, cubes, dashboards and analytical reports.
+8
+ SOFTWARE DEVELOPER
+A software developer is an individual that builds and create software and applica-
+tions. He or she writes, debugs and executes the source code of a software applica-
+BUSINESS OWNER
+This is someone who knows the business problems, processes and people inti-
+mately and who actively guides the delivery of the Scrum Team. 
+DATA MANAGER
+This is a management role, focused on ensuring the efﬁcient and effective opera-
+tion and usage of data. The role acts as an interface to other data roles in the com-
+pany (e.g. Data Engineers,  Data Scientists and Business Owners), ensuring effec-
+tive integration of the Data Management process with other processes in order to 
+meet service level requirements. 
+DATA QUALITY ASSURER
+This role is responsible for maintaining the quality of company datasets and is sup-
+ported by the Data Manager. In respect of data quality, this role is required to 
+establish standards, rules and processes which support data integrity and custom-
+DATA ARCHITECT
+A Data Architect is responsible for determining how data will ﬂow into the busi-
+ness, how it will be stored and how it will be eventually consumed. This involves 
+understanding how different IT structures will be used to enable the data to ﬂow 
+easily between different data entities.  
+Specialisations within Jobs
+Within  each  of  these  roles  there  can  be  various  specialisations  across  prob-
+lem-type and tool-set.
+9
+ Data Analysts are typically skilled in data processing and manipulation, using 
+mostly Excel to do so, although analytics dashboard platforms such as Tableau and 
+Qlik Sense provide new tools for data-rich reporting. 
+Example: 
+A Data Analyst typically possesses the following:
+Building Credit Scorecards
+Building Recommender Engines
+Developing Pricing Optimisation algorithms
+Scientists could also specialise in a particular tool-set which would need to ﬁt with 
+the tools, platforms and architecture of the organization that they work at. For 
+example Scientists could go long on:
+- AWS, Azure or GCP
+- C++, Java or Scala
+- Python, R or Julia
+- Tableau, PowerBI or Alteryx
+10
+ Our Recommendations
+Hiring a group of clever Scientists does not equate to
+effective problem-solving 
+Hire a mix of skilled Engineers, Analysts, Scientists and
+Developers with an awareness of how their skill sets
+interact and feed off of each other
+Ensure that each member feels a sense of ownership
+of the problem, and knows that they are a vital piece
+to reaching the desired outcome
+Let your team continue to play, learn and sharpen their
+skills when they are “deep in the matrix”. This broadens
+their toolkit to work on more interesting and valuable
+use cases down the line
+11
+ ABOUT EXPLORE
+EXPLORE is a next generation learning institution on a mission to deliver Digital 
+Skills at scale. It has worked with many Blue Chips, both locally and globally, help-
+ing them transform to become more Data-Driven and Insights-led.
+Our services include:
+BUILDING A PIPELINE OF DATA UPSKILLING YOUR
+TALENT FOR YOUR ORGANIZATION CURRENT WORKFORCE
+EXPLORE teaches a range of cours- We have a range of short and long 
+es that include Data Science, Data  courses for your workforce so that 
+Analytics, Data Engineering and  they are ready to reset their skill-sets 
+Data Translation where you can  and turbo-charge their careers into 
+sponsor the next generation of  the Digital Age.
+digital talent.
+PLACING SCARCE DIGITAL PRODUCTS AND
+SKILLS INTO YOUR BUSINESS SERVICES
+We have access to a long list of  We have some of the best Scientists 
+talented skills that we can match to  around who have decades of experi-
+your company’s needs to best set  ence solving problems, both locally 
+you up for success. and globally. Currently we’re work-
+ing for Blue Chips in South Africa 
+and across the UK in the Utulities 
+and Financial Services industries.
+11
+ EXPLORE-DIGITAL.NET
+ 

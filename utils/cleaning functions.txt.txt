@@ -1,0 +1,2 @@
+Write custom cleaning functions as (def clean_text(text): return text)
+save as cleaning.py

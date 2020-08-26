@@ -1,0 +1,308 @@
+COURSE CATALOGUE
+2020
+ Table of Contents
+EXPLORE Overview 02
+EMPLOYED Learnerships 03
+UNEMPLOYED Learnerships 04
+Skills Programmes
+Introduction to Data Science 05
+Programming 06
+Working with Data 07
+Visualisation 08
+Machine Learning 09
+Our Courses are For You if you Want to  10
+How your employees will Learn 11
+Requirements 12
+Your Success Team 13
+Your Teaching Team 14
+EXPLORE Philosophy: Solving problems in the real world 15
+Contact Information 16
+01
+ EXPLORE Overview
+EXPLORE is a next generation Learning Institution that teaches your current and 
+prospective employees the skills of the future. From Data Science to Data 
+Engineering, from Machine Learning to Deep Learning we deliver cutting edge 
+courses to satisfy their hunger to learn. Our Programmes are built by an amazing 
+Faculty - we employ some of the world’s most talented Scientists who have 
+experience solving diﬃcult problems on a global stage.
+Our philosophy is to teach our learners how to solve problems in the real world. 
+We emphasise teamwork, collaboration and working within constraints 
+under deadlines while understanding context, audience and implementation 
+challenges. We are not a theoretical institution (although we cover the theory) - we 
+are a ‘practical, hands-on, roll-up-your-sleeves and get stuﬀ done’ kind of 
+institution. As real-world Scientists who have delivered impact in the world of work 
+so we’re well positioned to deliver these skills to your organisation.
+EXPLORE launched during 2013 and since then has taught 1,000’s of learners and 
+solved many problems for businesses across multiple Industries across the world. 
+We’re reinventing education and invite you to join us.
+02
+ EMPLOYED Learnerships
+EXPLORE oﬀers a range of NQF Level 5 learnerships that cover the full range of 
+data skills that an organisation requires to thrive in the digital age. These 
+learnerships are typically well suited to entry to expert level IT and business 
+professionals who want to upskill in the latest technologies.
+Data Science Data Engineering
+Learn how to describe,  Learn how to engineer 
+predict and prescribe  powerful data platforms 
+key business metrics that run large Enterprises.
+Data Analytics Business Intelligence
+Learn how to gather and analyse  Learn how to tell stories using 
+data to deliver business insights  data with beautiful visualisations 
+to executives. 
+EXPLORE oﬀers a range of 1-year learnerships for employers to send their workforce on. From 
+courses for beginners to advanced Users EXPLORE has a learnership that is ﬁt for your 
+requirements. 
+03
+ UNEMPLOYED Learnerships
+EXPLORE oﬀers learnerships that cover the full range of data skills that an 
+organisation requires to thrive in the digital age. These courses are well suited for 
+smart and ambitious youngsters who will be leaders in your organisation in the 
+future. 
+Data Science Data Engineering
+Learn how to describe,  Learn how to engineer 
+predict and prescribe  powerful data platforms 
+key performance   that run large Enterprises in 
+metrics for business  the cloud.
+value
+Data Analytics Business Intelligence
+Learn how to gather and analyse  Learn how to tell stories using 
+data to deliver business insights  data with beautiful visualisations 
+to executives.  using the latest visualisation 
+tools available 
+EXPLORE oﬀers a range of 1-year learnerships for employers to sponsor young talent - this 
+talent then becomes your pipeline of digital skills into the future. These programmes can be 
+structured as Learnerships, Internships or Bursaries and allow you to ﬁnd the best of the 
+best outside of your organisation who will then be the future leaders of your business. 
+04
+ Skills Programmes
+Introduction to Data Science
+Our Introduction to Data Science courses are suited for non-technical audiences who want an 
+overview of what Data Science is and how it can be used by them to improve their performance 
+in their day to day roles. The courses are fun and interactive where key concepts are introduced 
+and real-world examples are workshopped to gain a better understanding of the technologies 
+emerging.
+Introduction to Data Science
+Data Science for Managers
+What is Data Science? 
+ What does best practice look like?
+How to use data to visualise a problem  
+How building models can help forecast and predict 
+Data Literacy
+What is Data Science?
+Why is data so important?
+How to work with data 
+Building dashboards to visualise performance 
+ Data Privacy, Governance and Security 
+05
+ Skills Programmes
+Programming
+Our Programming courses teach Users how to work in Python to be able to manipulate large 
+data sets and perform calculations on them to be able to analyse the data for insight. From simply 
+‘running a for loop’ to building advanced algorithms we cover a broad range of subject matter 
+to get you comfortable with one of the most powerful programming languages used today.
+Programming
+Programming in Python
+Installing Jupyter environment 
+Working with strings, numbers and booleans
+Conditionals, loops, boolean logic  
+Creating and working with functions 
+Advanced Programming in Python
+Pseudo-code, unit-testing, code reviews and Github
+Linear Programming
+Working with numpy and pandas 
+Sorting and greedy algorithms 
+ Creating and working with advanced algorithms
+06
+ Skills Programmes
+Working with Data
+Working with data is foundational to be being able to unlock the power of Data Science. 
+Being able to clean, transform, mine and mung large data sets is a critical skills for any Data 
+Scientist. We teach you to work in SQL, from 
+Working with Data
+SQL
+SELECT, FROM, WHERE 
+Working with JOINS
+SQL Aggregations 
+Working with Sub-Queries
+Big Data engineering
+Data cleaning
+Normalisation of data structures
+Advanced JOINS 
+Optimising for performance 
+Advanced queries 
+07
+ Skills Programmes
+Visualisation
+Being able to visualise data and tell compelling stories is a key capability of the Data 
+Scientists toolkit. Using the latest dashboarding technologies is a key skill to deliver the 
+insights and recommendations that your data is telling you. Our courses cover the key principles 
+and applications of being able to tell elegant stories using various visualisation techniques.
+Visualisation
+Visualisation
+Data Visualisation fundamentals 
+Designing a dashboard
+Working with PowerBI 
+Telling stories in PowerBI
+Advanced Visualisation
+Setting Data relationships 
+Planning, designing and proto-typing dashboards
+Advanced PowerBI functions 
+Advanced PowerBI visuals 
+Dashboard Project 
+08
+ Skills Programmes
+Machine Learning
+The latest advances in machine learning have been astounding. With the powerful computers of 
+today coupled with amazing algorithms machines can know see, hear, read and speak at the 
+level of humans. We teach your employees how these technologies work so that they can 
+use them in your business going forwards.
+Machine Learning
+Machine Learning
+Pre-processing data techniques
+Linear and logistic regression
+Decision trees and random forests
+Support vector machines and K-nearest neighbours
+Unsupervised learning: clustering algorithms, PCA 
+Deep Learning
+Natural Language Processing
+Sentiment classiﬁcation
+Artiﬁcial Neural networks 
+Recurrent Neural Networks 
+ Convolutional Neural Networks 
+09
+ Our Courses are For You If You Want To
+Our courses are 100% for you if you are looking to:
+Upskill and reskill your workforce
+EXPLORE are experts at working with large organisations to 
+transform their workforce to be digitally enabled so they can thrive 
+in the digital age.
+Have Content that is tailored
+EXPLORE works with you to make sure the courses are 
+ﬁt-for-purpose. We tailor our courses to your needs and deliver 
+projects that are suited to your environments
+Have a Support Team
+EXPLORE has a large Faculty of Scientists with lots of Academic and 
+real-world experience who are available to support your 
+employees through the learning process. 
+Score BBBEE Points
+We’re a SETA accredited Level 4 Service Provider and understand 
+how to optimise for your BBBEE Scorecard
+10
+ Who Should Take These Courses?
+Our courses geared for a large range of audiences - from non-technical newcomers to the 
+ﬁeld - to advanced analysts looking to reﬁne their abilities. Our courses will be beneﬁcial to 
+professionals who need to rapidly upskill and enhance their data science toolkit with 
+demonstrable and practical skills.
+It is also beneﬁcial to professionals working in a range of business areas, including but not 
+limited to marketing, sales, ﬁnance, and operations who want to learn how to use data 
+and programming to increase eﬃciencies and identify new opportunities for their 
+organisation.
+How Your Employees Learn
+Our courses are broken down into easily digestible bite-sized chunks and delivered via our 
+world-class technology solution. We deliver a combination of Online and On Campus solutions that 
+are set by your needs supported by our world-class Faculty who are their to assist whenever help is 
+required. 
+Our courses are fun, intuitive, video-based with loads of assessments for your employees to track 
+their progress. You get regular reports to see how how your cohorts are doing that show 
+attendance, performance and coping metrics.  
+Work through your downloadable and online instructional material
+Interact with your peers and learning facilitators through real-time chat 
+platforms and regular live webinars
+Enjoy a wide range of interactive content, including video lectures, coding 
+challenges, hackathons, and presentations
+Investigate real-world case studies  
+Learn how to use Jupyter Notebook, GitHub, Power BI, AWS, and various 
+machine learning models
+Apply what you learn each week to quizzes and ongoing project 
+submissions, culminating in the ability to solve a problem using statistical 
+learning on a world data set
+11
+ Software Requirements
+BASIC REQUIREMENTS
+Basic computer literacy is essential for successful completion of the course. To complete the 
+course, you will need a current email account and access to a computer and the internet, as well as 
+a PDF Reader. You may need to make use of the Google oﬃce suite, which is free to anyone with a 
+Gmail account. Alternatively, Microsoft Oﬃce applications (such as PowerPoint and Word) may be 
+used. We recommend using Google Chrome to access the course, but any popular browser should 
+suﬃce.
+TECHNICAL REQUIREMENTS
+● Recommended OS: Since we make use of Windows based apps (such as Power BI), Windows 10 
+is recommended (Windows 7 minimum)
+● Processor: Minimum i3. Baseline higher than 2GHz 
+● RAM: Minimum 4GB 
+● Bandwidth: 20GB data per month should be suﬃcient, but will vary based on your personal 
+activity 
+● Communication: Webcam and Microphone
+ADDITIONAL REQUIREMENTS
+Certain activities may require additional software and resources. In such cases, we will ensure that 
+they will operate properly on a device with the above-mentioned speciﬁcations and will be clearly 
+communicated to you during the completion of the course. Please note that Google, Vimeo, YouTube, 
+Udemy and Datacamp may be used in our course delivery, and if these services are blocked in your 
+jurisdiction, you may have diﬃculty in accessing course content. Please check with a Course 
+Consultant before registering for this course if you have any concerns about this aﬀecting your 
+experience with the Online Campus.
+12
+ Your Success Team
+EXPLORE has a range of Faculty members at hand to assist you if you get stuck during your learning 
+journey. We have experts readily available to assist you for when things get tricky - they have a wealth 
+of experience with the material and are a friendly message away to help you on your way.
+Head Tutor
+A subject matter expert who'll guide you through content-related 
+challenges. 
+Success Manager
+Your one-on-one support available during working hours (8am-5pm 
+SAST) to resolve any challenges that you may have
+Administration Support
+Available 24/7 to solve your software, tech and administrative queries 
+and concerns. 
+13
+ Your Teaching Team
+These EXPLORERs built the course you will go through - they have loads of experience working with 
+the tools and technologies you will learn and had fun building something awesome for you to learn.
+SUBJECT MATTER EXPERT
+Jaco Jansen van Rensburg
+Lead Instructor
+Jaco is a Lead Data Scientist in the EXPLORE Data Science Academy. He has spent the bulk of his 
+career on scientiﬁc and industrial research and holds a PhD in Mechanical Engineering with a focus 
+on mathematical modelling and optimisation.
+YOUR COURSE CO-CONVENORS
+These subject matter experts guide the course design and appear in a number of course videos, 
+along with a variety of industry professionals. 
+Jonathan Gerrand
+Lead Instructor
+Jonathan is an electrical engineer specialising in biomedical image processing and machine learning 
+(MSc). Having been a founding member of the Data Science for Impact and Decision Enablement 
+(DSIDE) program within the CSIR, he is passionate about teaching, innovating for good, and equipping 
+others to reason within a data driven world. Jonathan loves the outdoors, is unashamedly nerdy, and 
+relishes a compelling debate.
+Jonathan Botha
+Data Scientist
+Jonathan has his PhD in Genetics. He decided to leave the world of Academia and pair his unique 
+perspective and insight with Data Science in order to see what strange and interesting things unfold. 
+He also unashamedly prefers tea to coﬀee.
+14
+ EXPLORE Philosophy: Solving problems in the real world
+At EXPLORE we focus on building your employee’s ability to solve problems in the real 
+world. Building things that work and make a diﬀerence is hard - that’s what we teach.
+We’re not a traditional learning institution that spends weeks teaching matrix multiplication on a 
+whiteboard (although understanding that is useful) - we’re a practical, solution-oriented 
+institution that teaches our students to work in teams, under pressure, with deadlines 
+while understanding context, constraints and the audience.
+Our courses are typically broken into Sprints where we teach a core set of concepts within the 
+framework of solving a problem in a team with a tight deadline.
+1 2 3
+Our courses are practical and applications-based with lots of examples to get your employees 
+comfortable with the new concepts, tools and technologies emerging.
+15
+ COURSE 
+CATALOGUE
+2020
+Transform your workforce today by connecting with EXPLORE. Your 
+employees have a range of a Data Science, Data Analytics, Business 
+Intelligence  or Data Engineering courses to choose from.
+For Enquiries Mail:
+enterprise@explore-ai.net
+General Enquiries Mail:
+general@explore-ai.net
+WWW.EXPLORE-DATASCIENCE.NET
+ 

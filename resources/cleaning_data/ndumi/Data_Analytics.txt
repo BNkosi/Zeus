@@ -1,0 +1,229 @@
+DATA ANALYTICS
+PROSPECTUS
+ 1. EXPLORE Overview
+2. Why Data Analytics?
+3. Curriculum Overview
+a. Module 1: Analytics 101
+b. Module 2: Analysing Data
+c. Module 3: Gathering Data
+d. Module 4: Visualising Data
+e. Module 5: Communicating Insights
+f. Module 6: Python Fundamentals
+g. Module 7: Python Data Structures
+h. Module 8: Regression Techniques
+i. Module 9: Classiﬁcation Techniques
+4. EXPLORE Philosophy: Solving problems in the real 
+world
+5. Contact Information 
+ None
+ None
+ Phase  Module  Weeks
+ Module 1
+What is covered in Module 1:
+➔
+What is analysing?
+➔
+➔
+What is gathering?
+➔
+➔
+What is visualising?
+➔
+➔
+What is communicating?
+➔
+ Module 2
+Project:
+What is covered in Module 2:
+➔
+Understanding the 
+➔
+basics
+➔
+➔
+➔
+Manipulating and 
+linking data
+➔
+➔
+➔
+➔
+Probability 
+➔
+Theory
+➔
+➔
+Conditional 
+➔
+Probability
+➔
+ Module 3
+Project:
+What is covered in Module 3:
+➔
+Querying from the 
+➔
+data
+➔
+➔
+➔
+Changing the data
+➔
+➔
+➔
+Probability 
+➔
+Theory
+➔
+➔
+Set Theory
+➔
+➔
+ Module 4
+Project:
+What is covered in Module 4:
+➔
+Setting up the 
+➔
+data
+➔
+➔
+➔
+Visualising the 
+➔
+data
+➔
+➔
+➔
+Sampling
+➔
+➔
+➔
+Hypothesis 
+➔
+Testing
+➔
+ Module 5
+Project:
+What is covered in Module 5:
+➔
+Defining a 
+problem
+➔
+➔
+Articulate solution
+➔
+➔
+Visual aids
+➔
+➔
+➔
+Presenting
+➔
+ Module 6
+Project:
+What is covered in Module 6:
+➔
+Basic Concepts
+➔
+➔
+➔
+➔
+Variables, 
+➔
+Expressions and 
+Statements
+➔
+➔
+➔
+Working with 
+➔
+Logic
+➔
+➔
+➔
+Writing 
+➔
+Functions
+➔
+➔
+ Module 7
+Project:
+What is covered in Module 7:
+➔
+Working with 
+➔
+Basic Structures
+➔
+➔
+➔
+Working with 
+➔
+Lists and Tuples
+➔
+➔
+➔
+Working with 
+➔
+Sets and 
+➔
+Dictionaries
+➔
+➔
+Working with 
+Data Sets
+➔
+➔
+➔
+ Module 8
+Project:
+What is covered in Module 8:
+➔
+Building the 
+➔
+model
+➔
+➔
+➔
+Testing the model 
+output
+➔
+➔
+➔
+Linear 
+➔
+Regression
+➔
+➔
+Single Factor 
+➔
+Analysis
+➔
+ Module 9
+Project:
+What is covered in Module 9:
+➔
+Building the 
+➔
+model
+➔
+➔
+➔
+Selecting the best 
+➔
+model
+➔
+➔
+Decision 
+➔
+Analysis
+➔
+➔
+Stats Summary
+➔
+ None
+ admissions related enquiries
+general enquiries
+ 
+ 
+ 

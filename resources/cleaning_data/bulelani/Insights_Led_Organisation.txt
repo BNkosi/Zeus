@@ -1,0 +1,279 @@
+Becoming
+an Insights-Led
+Organisation
+Restarting the journey
+ The Sexiest Career in the World
+Ever since The Harvard Business Review published that ‘Data Science is the Sexiest 
+Career of the 21st Century’, executives around the world have had a tough time of 
+it. Boards, CEOs and Analytics Heads have felt pressure to build ‘Data-Driven’ and 
+‘Insights-Led’ organisations.
+Although organisations have been ‘doing advanced analytics’ for decades many 
+have been struggling to earn a real, tangible return on their data efforts propor-
+tional to the hype. Boards, CEOs and Investors are becoming impatient as the 
+promise of the latest advances do not seem to be landing in the organisation.
+Our experience is that organisations are still battling to capture the signiﬁcant 
+beneﬁts that Data Science has to offer. We have found that there is not yet a 
+common language or a standard set of methodologies, processes and approaches 
+to navigate this fast-moving ﬁeld.
+Today an organisation’s reﬂex is to hire a team of Data Scientists and hope that the 
+magic will ﬂow. This, however, is not how the story unfolds. What happens is usual-
+ly somewhat different: a company hires an expensive team of Data Scientists who 
+build complex models that no-one really understands and that never make it into 
+production. Circumspection sets in and soon the C-Suite views the Data Science 
+effort as yet another fad next to a long list of failed initiatives.
+This paper serves to share how we think an Organisation can (re)start its journey to 
+being an Insights-Led organisation.  
+THE SEXIEST CAREER
+IN THE WORLD
+1
+ Better, faster, cheaper
+We look at an organization as a combination of decisions that are being made. 
+Typically there are thousands of decisions being made every day. These decisions 
+drive Enterprise Value. Some decisions are incredibly important and are signiﬁcant 
+levers of value. For example, to whom a bank gives credit and at what interest rate 
+is a critical decision. How well this decision is made can fundamentally impact the 
+value of the enterprise.
+WE MAINTAIN THAT EVERY DECISION A BUSINESS MAKES IS DELIVERED
+By a combination of  Using a body of  To optimise for a 
+humans and machines evidence and intuition particular outcome
+Every one of these decisions can improve significantly - a combination of better, 
+faster and/or cheaper – by using the latest advances in Data Science.
+The job of the organisation is to agree on the big decisions and mobilise Data 
+teams around making those decisions better, faster and/or cheaper.
+To start the Data Science journey the Executive team must work together to:
+1. Articulate the Opportunity Space. The Executive team must generate a set 
+of Use Cases across the business where they think signiﬁcant value could be 
+unlocked.
+2. Evaluate the Opportunities. A consistent framework for evaluating each 
+opportunity must be agreed and then each Use Case evaluated using the 
+chosen framework. From here a prioritisation process can begin.
+3. Prioritise the Opportunities. Once there is a common language for discuss-
+ing the Opportunities the team can start ﬁghting for what to do when. The 
+process is often a battle. Executives disagree. Emotions run high. This pro-
+cess is not easy.
+2
+ 4. Allocate resources accordingly. After the prioritised list has been agreed 
+the team must allocate resources to deliver the opportunities. Often inter-
+nal resources are insufﬁcient to get everything done. The Executive should 
+consider using external suppliers when it is sensible to do so - often external 
+solutions will be better positioned than your internal teams to deliver value. 
+Be open to that.
+5. Deliver value. After the long journey of agreeing who does what when, the 
+hard work starts. The business must execute on the plans it has set. We pro-
+pose that agile, multi-disciplined Data teams contract with business with 
+signed-off scorecards, business sponsors and check-points to ensure deliv-
+ery stays on track.
+DELIVER
+5
+VALUE
+ALLOCATE RESOURCES
+4
+ ACCORDINGLY
+PRIORITISE THE
+3
+OPPORTUNITIES
+EVALUATE THE
+2
+ OPPORTUNITIES
+ARTICULATE THE
+1
+OPPORTUNITY SPACE
+3
+ Having spent time with many Executive Teams we propose the process as set out 
+above. We include some of the tools and frameworks that we ﬁnd work well to 
+structure and guide the process below. We give some real-world examples to give 
+the process some colour.
+1. ARTICULATE THE OPPORTUNITY SPACE
+Step 1: Each Executive works with his/her teams to uncover the big decisions 
+that drive value in their area. For a Marketing Executive this may be ‘Do I 
+market on television or via Social Media?’ and ‘What is the best time to air my 
+radio advertisements?’. For an Operations Executive it may be ‘Where do I 
+build my next branch?’ and ‘How do I reduce fraudulent claims?’
+ 
+Step 2: Each Executive must then prioritise the Top 5-7 Decisions in each of 
+their areas. Often it is obvious what the big ticket items are and the team aligns 
+quickly on the big decisions that they need help on. Other times it may not be 
+clear and teams disagree.
+ 
+Step 3: Once the Top 5-7 Decisions have been agreed it is necessary to articu-
+late each as a Problem Statement. This task, which sounds simple, is difficult 
+and critical to get right. The framing of the Problem Statement drives the 
+problem-solving process and, if carelessly phrased, can lead teams down blind 
+alleys.
+An  example  of  a  good  Problem  Statement:  ‘Should  we  build  a  branch  in 
+suburb X, and, if so, what size investment is optimal?’ An example of a poor 
+Problem Statement: ‘Where should I build a bank branch?’
+ 
+Step 4: The entire Executive then meet as a group. Each bring their Problem 
+Statements to the table. These Problem Statements are then put down onto a 
+single page for the team to have a single view of the Opportunity Space avail-
+able to them.
+NEXT PAGE IS AN EXAMPLE OF A TYPICAL BANK’S OPPORTUNITY SPACE
+4
+ BELOW IS AN EXAMPLE OF A TYPICAL BANK’S OPPORTUNITY SPACE
+CREDIT  MARKETING & PRODUCT  CUSTOMER  BILLING &   SUPPORT 
+SCORING OPERATIONS DEVELOPMENT SALES COMPILANCE SERVICE COLLECTION FUNCTIONS
+Customer Proﬁting
+Optimising 
+Branch  All Quality 
+Locations Assurance
+Scoial Network Analysis
+CAIINMPTAPEBRRIOLNIVATEILE  S RSecaolr-eti mUped Carteindgit  BrOanpcthim Riosilnl-go ut PSeercsmoneanlitzeedd M Maarrkkeettiningg/A/Addvveerrttisisiningg TRFCea Sl-ctoimrineg  CShearvtBicoet  RReevael-Dntuiemete eAc sLtiseouanrkaangcee    HR SAtanfaf lCysuisltural 
+HR Productivity 
+Analysis
+Up-Sell And Cross-Sell Off Internal/External 
+DiBgiutaildl Binrgan ac h Effective & Efﬁcient Campaign Migrant SOeprvtiicSmetai sCfafe tniotnre  HRP eHrifroinrmg eHrisgh 
+Churn Prediction & Pervention Fraud Prevention and Management
+Service Optimization for High Value Customers
+IMPROVE  Service 
+OPESFRXEFOIRESDRVTUIIINNCCEGGT  S/ Big Data Credit  Optimising  Improving Contactability vIima TpAernxoatv/leSympsieseencth   OCopltliemctiisoinngs  CAalHln PRdui dFbianlitcde isDn Iagnt cal. 
+Scoring (eg  Branch Lay-out/
+Using Social  processes Improving Engagement on Calls to Customers
+Media * External 
+Data)
+Sales 
+ChatBot
+BUILD NEW  Big Data Digital Marketing
+PRODUCT/
+SERVICE 
+Using Big Data  Up-sell New Non-banking Products 
+to set Digital UX  Use Tx Data to Build New Products
+Journeys
+The next task is then to evaluate each opportunity in a consistent manner so that 
+the business can prioritise what to do when.
+2. EVALUATE THE OPPORTUNITIES
+Now that the Executive has a set of opportunities to consider what follows is the 
+difﬁcult task of deciding what opportunity to do when. All opportunities are not 
+made equal. Some are more difﬁcult than others. Some are ten times more valu-
+able than the rest. Some require skills that the organization do not have.
+ 
+The Executive must align by scoring a number of criteria for each Opportunity that 
+can be used to prioritise the list.
+BELOW IS AN EXAMPLE THE CRITERIA THAT WE HAVE USED ACROSS A 
+NUMBER OF ORGANISATIONS
+5
+ Problem Statement
+1
+Clear articulation of Problem to 
+Solve
+Value to Unlock
+2
+Clear Valuation of Opportunity 
+(NPV)
+Difﬁculty
+3
+Ease of Implementation
+KPI(s)
+4
+KPIs to Track
+Resource Required
+5
+People / Training Tools Investment
+Approach
+6
+How will Problem be Approached? 
+What methodologies used?
+Time To Complete
+7
+Estimate of time to complete?
+Milestones
+8
+Key Milestones Key Go / No go 
+Checkpoints
+6
+ 3. PRIORITISE THE OPPORTUNITIES
+Once the opportunities have been set and evaluated it is the difﬁcult task of the 
+team to agree the prioritised list. Part art, part science, this is often a colourful pro-
+cess where each team member will ﬁght for the Use Case(s) that they have put 
+forward. 
+- To weight the factors selected in the previous step and then generate a 
+‘scientific answer’ to what the priorities should be
+- Have an afternoon workshop where the team goes through the Opportu-
+nities and then votes (eg. using Google Forms) for their Top 5 Use Cases
+- To agree a Decision Maker (eg. CEO) who has the ﬁnal say at the end of the 
+process
+4. ALLOCATING RESOURCES ACCORDINGLY
+Once the team has a Top 5 or Top 10 set of Use Cases it is then time for the business 
+to allocate resources. From our experience there will always be 10X more Use Cases 
+than resources and, unfortunately, many of the Use Cases will be left on the shelf 
+while the Internal Data Science capability begin their journey to build business 
+value.
+From our experience a Scrum Team of 3-5 dedicated resources to deliver each Op-
+portunity works well, with this number scaling up or down depending on the 
+nature and difﬁculty of the work. Principles that we have found to work are:
+- Small autonomous teams are ideal
+- Teams should work in an agile way 
+- User feeback is critical to direct teams towards business value
+- The teams should integrate into the business - an IT and business repre-
+sentative should be on the team to ensure that the work is practical, rele-
+vant and can be implemented
+- A range of skills - covering Consulting, Data Science, Data Engineering, 
+Data Visualisation, System Integration, Data Management and Software 
+Development are usually required to deliver value 
+7
+ Given the Supply/Demand gap to deliver on the Opportunities it is often sensible 
+to consider external Data Science teams to deliver some of the Use Cases. This 
+makes sense when the following holds true:
+ 
+- The value that can be unlocked is so great it does not make sense to wait 
+for Internal teams
+- External teams have solved the problem before and can quickly imple-
+ment the solution
+- External teams have skills that the Internal Teams do not have (eg. Experts 
+at Image Classiﬁcation and Anomaly Detection to check for Claims Fraud 
+on PDF-ed Invoices)
+- There is no sensitive internal data involved so issues such as privacy, GDPR 
+and POPI are not relevant
+BELOW IS AN EXAMPLE OF A PRIORITISED LIST OF USE CASES WITH INTERNAL 
+AND EXTERNAL TEAMS ASSIGNED
+Q1 Q2 Q3 Q4
+Improving Contactability
+Improve Credit Scoring
+Who to Hire / Fire
+Fraud Detection
+Improving Customer Service
+Improving Digital Marketing
+Internal Teams
+External Teams
+8
+ 3. DELIVER VALUE
+Once the Opportunities have been allocated teams the real fun starts. To keep 
+teams honest we have found that a scorecard should be set at the outset of each 
+Use Case to keep the team both mindful of the problem they’re trying to solve and 
+accountable to the work they’re doing.
+- To weight the factors selected in the previous step and then generate a 
+‘scientific answer’ to what the priorities should be
+- Have an afternoon workshop where the team goes through the Oppor-
+tunities and then votes (eg. using Google Forms) for their Top 5 Use Cases
+- To agree a Decision Maker (eg. CEO) who has the ﬁnal say at the end of 
+the process
+In addition to this we have believe that a Business Sponsor should be allocated to 
+each team with fortnightly check-ins and monthly SteerCos. The team should 
+work in an agile manner using Sprints, Daily Scrums and back-logs to manage the 
+outcomes.
+9
+ ABOUT EXPLORE
+EXPLORE is a next generation learning institution on a mission to deliver Digital 
+Skills at scale. It has worked with many Blue Chips, both locally and globally, help-
+ing them transform to become more Data-Driven and Insights-led.
+Our services include:
+BUILDING A PIPELINE OF DATA UPSKILLING YOUR
+TALENT FOR YOUR ORGANIZATION CURRENT WORKFORCE
+EXPLORE teaches a range of cours- We have a range of short and long 
+es that include Data Science, Data  courses for your workforce so that 
+Analytics, Data Engineering and  they are ready to reset their skill-sets 
+Data Translation where you can  and turbo-charge their careers into 
+sponsor the next generation of  the Digital Age.
+digital talent.
+PLACING SCARCE DIGITAL PRODUCTS AND
+SKILLS INTO YOUR BUSINESS SERVICES
+We have access to a long list of  We have some of the best Scientists 
+talented skills that we can match to  around who have decades of experi-
+your company’s needs to best set  ence solving problems, both locally 
+you up for success. and globally. Currently we’re work-
+ing for Blue Chips in South Africa 
+and across the UK in the Utulities 
+and Financial Services industries.
+10
+ EXPLORE-DIGITAL.NET
+ 

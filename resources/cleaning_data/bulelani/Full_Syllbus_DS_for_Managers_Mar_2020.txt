@@ -1,0 +1,101 @@
+DATA SCIENCE
+for MANAGERS
+PROSPECTUS
+ 1. EXPLORE Overview
+2. Why Data Science?
+3. Curriculum Overview
+a. Module 1: What is Data Science?
+b. Module 2: Cleaning and Manipulating Data
+c. Module 3: Data Visualisation & Summary Statistics
+d. Module 4: Predictive Modelling & Time-Series
+4. EXPLORE Philosophy: Solving problems in the real world
+5. Contact Information 
+ None
+ None
+ Duration: Time Per Day:
+Course Difficulty:
+Pre-Requisite Skills:
+Tools Learnt:
+Phase  Module  Duration
+ Module 1
+What is covered in Module 1:
+➔
+Introduction
+➔
+➔
+➔
+State of Data 
+➔
+Science
+➔
+➔
+Use Cases
+➔
+ Module 2
+Project:
+What is covered in Module 2:
+➔
+Cleaning
+➔
+➔
+➔
+Excel
+➔
+➔
+➔
+Probability 
+➔
+Theory
+➔
+➔
+Summary 
+➔
+Statistics
+➔
+ Module 3
+Project:
+What is covered in Module 3:
+➔
+Setting up the 
+➔
+data
+➔
+➔
+➔
+Visualising the 
+➔
+data
+➔
+➔
+➔
+Probability 
+➔
+Theory
+➔
+➔
+Set Theory
+➔
+➔
+ Module 4
+Project:
+What is covered in Module 4:
+➔
+Programming 
+➔
+Fundamentals
+➔
+➔
+➔
+Regression
+➔
+➔
+➔
+Time-series
+➔
+➔
+ None
+ admissions related enquiries
+general enquiries
+ 
+ 
+ 

@@ -1,0 +1,830 @@
+Curriculum Detail
+Long Courses
+Data Science
+---------------------------------------------------------------------------------------------Overview
+Explore the ways to make an invaluable contribution to your
+business.
+Data Scientists bring a diverse set of skills to your business that help you make
+data-driven decisions.
+------------------------------------------------------------------------------------------Curriculum
+1
+Start thinking like a data scientist
+This course will provide students with the knowledge, skills and experience to get
+a job as a data scientist - which requires a mix of programming, statistical
+understanding and the ability to apply both skills in new and challenging
+domains. The course will teach students to gather data, visualise data, apply
+statistical analysis to answer questions with that data and make their insights and
+information as actionable as possible.
+Fundamentals
+Students will gain an overview of Data Science and the fundamental skills
+required to be a data scientist. They will learn how to clean, analyse and visualise
+data as well as how to effectively communicate the findings to drive actionable
+interventions. The tools to be used will be Python, Power BI, Microsoft SQL and
+GSuite.
+OUTCOMES:
+★ Able to create and query a SQL database to extract valuable information
+★ Able to query analyse datasets inPython by using Numpy, Pandas and
+Pyodbc
+★ Able to build dynamic and interactive dashboards using Power BI
+★ Able to effectively communicate the findings after an analysis
+Programming
+Students will develop on programming in Python. From writing basic syntax to
+using complex functions to automate analysis and start structuring pipelines.
+OUTCOMES:
+★ Able to write and understand basic syntax in Python as well as to debug
+errors
+★ Able to write complex functions to automate analysis
+★ Able to use cloud instances to execute and run model pipelines
+Sprints
+Students will solve real-world problems by building regression, classification and
+unsupervised learning algorithms in python. It will involve data exploration
+insight, building, improving and communicating models from a raw and
+unstructured dataset.
+2
+OUTCOMES:
+★ Able to prepare data appropriately for model building purposes
+★ Able to build a linear regression model in python and test the results of
+predictions
+★ Able to build a logistic regression model in python and test the results of
+predictions
+★ Able to optimize models to enhance performance
+★ Learn to apply advanced models, such as random forests and support
+vector machines, to real world problems.
+★ Learn to apply unsupervised techniques, such as k-means clustering and
+dimensionality reduction, to your data.
+★ Able to gather insight and derive patterns from unstructured data
+-------------------------------------------------------------------------------------------Instructors
+We take teaching seriously. Great teachers inspire us to connect with topics on a
+profound level. With experience in the field and the classroom, our data science
+instructors are unmatched. Simply put: students learn from the best.
+----------------------------------------------------------------------------Why Data Analytics?
+Join the fastest-growing corner of the tech industry
+xxxxxxx
+----------------------------------------------------------------------------------------------------FAQ
+Can i …
+xxxxx
+3
+Can i
+xxxx
+Data Science for Analysts
+Machine Learning for Analysts
+---------------------------------------------------------------------------------------------Overview
+Build systems and models that drive decision making and learns
+from data.
+Machine Learning Engineers are key to future decision-making in any data-driven
+company.
+4
+------------------------------------------------------------------------------------------Curriculum
+Start thinking like a machine learning engineer
+The course will start by covering the basics of programming in python - building
+functions to automate analysis. After the foundations have been set, participants
+will master the model building process and the various machine learning
+algorithms to use when predicting or classifying personal loans as well as
+exploring techniques such as clustering and natural language processing. In the
+final phase participants will dive deeper into the more complex machine learning
+techniques - deep learning, where they will cover all the various neural networks.
+Download Full Syllabus
+Programming
+Participants will learn to code in python. From basic syntax to complex logic
+statements and functions. They will also cover utilising external libraries to make
+programming simpler - going very deep into the NUmpy and Pandas libraries.
+OUTCOMES:
+★ Able to write basic python code and debug errors
+★ Able to write logic statements and for-loops
+★ Able to write functions to code efficiently
+★ Able to import and use libraries such as Numpy and Pandas
+Machine Learning
+Participants will cover the whole model building process using python’s Sci-kit
+Learn library. They will start by pre-processing the data to be ready for modeling
+and then go through the machine learning algorithms for classifying whether
+someone will take out a loan or not. Then it will be all about regression algorithms
+to predict the amount of the loan for those who took out a loan. Secondly, they
+5
+will look at unsupervised learning algorithms which will be combined with
+Natural Language processing techniques. Finally, participants will cover three
+deep learning algorithms - Artificial Neural Nets, Convolutional Neural Nets and
+Recurrent Neural Nets. They will build models using these algorithms in python’s
+Keras library - for some of these algorithms the data will be transformed.
+OUTCOMES:
+★ Able to pre-process data ready for modeling purposes
+★ Understand the concepts of regression, classification and unsupervised
+learning
+★ Able to build and optimise models using python’s Sci-kit Learn library
+★ Able to select the most important features for model building
+★ Able to process text using NLP techniques
+★ Able to cluster data using clustering algorithms
+★ Understand the structure of neural nets and when to use them
+★ Able to build deep learning models in Keras
+★ Able to transform data into images and vice versa
+-------------------------------------------------------------------------------------------Instructors
+We take teaching seriously. Great teachers inspire us to connect with topics on a
+profound level. With experience in the field and the classroom, our data science
+instructors are unmatched. Simply put: students learn from the best.
+------------------------------------------------------------------------Why Machine Learning?
+Make better decisions and smart actions in real time without
+human intervention.
+The amount of data being produced is increasing exponentially due to the
+Internet of Things. Data storage is becoming cheaper and processing power is
+becoming greater.
+6
+All of these things above mean that it’s becoming easier and quicker to produce
+models that can analyze bigger/more complex data and deliver more accurate
+results – even on a very large scale. By building prediction models a business has
+a better chance of identifying profitable opportunities – or avoiding unknown
+risks.
+----------------------------------------------------------------------------------------------------FAQ
+What software tools will we cover in the course?
+You will code using Python in a Jupyter Notebook environment.
+What are some of the problems will we solve in the course?
+You will solve problems such as predicting whether someone will take out a
+personal loan and what the amount will be, selecting the most optimal football
+team given player attributes, predicting whether someone will take out a claim or
+not (as well as the amount) and grouping reviews (text) data into the most
+appropriate clusters to find out what customers are complaining about.
+Will it be technical?
+Yes. Even though there is complex maths behind some of the models, we won’t
+explicitly cover it. We will mainly cover how the algorithms work and how to
+implement them in Python. As additional material, a textbook with the
+algorithms will be provided.
+Are there any prerequisites for the course?
+No. If you are sponsored however, you will have to do an online test, bootcamp
+and speed interview.
+How will I be graded?
+7
+At EXPLORE we have what is called the Belt system. You will receive points for
+completing tutorials, test results, project results and peer assessment. These
+points will build up and can be mapped to a certain belt level which ranger from
+white to black.
+Which algorithms will we cover in the course?
+Supervised Learning - linear regression, logistic regression, decision trees, random
+forests, SVM’s, k-nearest neighbours.
+Unsupervised learning - variance thresholds, PCA, k-means clustering,
+hierarchical clustering, Gaussian mixture models.
+Deep learning - ANN’s, CNN’s, RNN’s
+What is the difference between classification and regression?
+Classification refers to when we are trying to predict which category a certain
+observation will fall into, while regression refers to when we are trying to predict a
+numeric value
+Data Engineering
+---------------------------------------------------------------------------------------------Overview
+Explore the ways to make an invaluable contribution to your
+business.
+Data Engineers are some of the most important employees in any business
+structure.
+8
+------------------------------------------------------------------------------------------Curriculum
+Start thinking like a data engineer
+Data engineers give your business a framework that allows you to capture and
+use large amounts of data.
+Fundamentals
+This sprint covers the basic fundamental skills one will need to be a data
+engineer. We cover the basics of relational datasets using SQL and NoSQL
+frameworks, as well as cloud based data storage solutions.
+OUTCOMES:
+★ Understand various data models with SQL and NoSQL frameworks.
+★ Able to access and launch various data storage solutions using AWS and
+Azure.
+★ Knowledge of creating and normalizing data tables.
+9
+Data Warehouses
+Learn to implement cloud-based warehouses using AWS and Azure services.
+OUTCOMES:
+★ Deep AWS knowledge, able to set up Amazon S3, IAM, VPC, EC2, RDS
+PostgreSQL instances
+★ Understanding of Data Warehouse architecture.
+★ Understanding of optimal data table design.
+Data Lakes / Spark
+In this sprint students will learn about big data architectures and how to use
+Spark to work with such datasets.
+OUTCOMES:
+★ Understanding of Big Data Architectures
+★ Ability to use SparkSQL and manipulate data using it.
+★ Implement Data Lakes using AWS or Azure.
+Data Automation
+In this sprint students will learn how to create data pipelines using Apache
+Airflow/Floom/Nifi. This will involve scheduling, automating, and monitoring your
+data pipeline.
+OUTCOMES:
+★ Ability to create data pipelines using Apache Airflow.
+★ Ability to track data lineage, set up data pipeline schedules, write tests to
+ensure data quality, and optimize a data pipeline.
+★ Ability to build reusable and maintainable pipelines.
+★ Ability to write your own Apache Airflow plugins.
+-------------------------------------------------------------------------------------------Instructors
+We take teaching seriously. Great teachers inspire us to connect with topics on a
+profound level. With experience in the field and the classroom, our data science
+instructors are unmatched. Simply put: students learn from the best.
+10
+------------------------------------------------------------------------Why Data Engineering?
+Join the fastest-growing corner of the tech industry
+xxxxxxx
+----------------------------------------------------------------------------------------------------FAQ
+Can i …
+xxxxx
+Can i
+xxxx
+Data Analytics
+---------------------------------------------------------------------------------------------Overview
+Explore the ways to make an invaluable contribution to your
+business.
+Data Analysts are some of the most important employees in any business
+structure.
+11
+------------------------------------------------------------------------------------------Curriculum
+Start thinking like a data analyst
+This course will provide students with the knowledge, skills and experience to get
+a job as a data analyst - which requires a mix of programming, statistical
+understanding and the ability to apply both skills in new and challenging
+domains. The course will teach students to gather data, apply statistical analysis
+to answer questions with that data and make their insights and information as
+actionable as possible.
+Download Full Syllabus
+Fundamentals
+Students will gain an overview of the fundamental skills required to be a data
+analyst. They will learn how to clean, analyse and visualise data as well as how to
+effectively communicate the findings to drive actionable interventions. The tools
+to be used will be Excel, Power BI, Microsoft SQL and GSuite.
+OUTCOMES:
+★ Able to analyse datasets in Excel by using complex formulas and pivot
+tables
+★ Able to create and query from a SQL database to extract valuable
+information
+★ Able to build dynamic and interactive dashboards using Power BI
+★ Able to effectively communicate the findings after an analysis
+Programming
+Students will learn programming in Python. From writing basic syntax to using
+complex functions to automate analysis.
+12
+OUTCOMES:
+★ Able to write and understand basic syntax in Python as well as to debug
+errors
+★ Able to write complex functions to automate analysis
+★ Able to use the Numpy and Pandas libraries in Python for data analysis
+Sprints
+Students will solve real-world problems by building regression and classification
+prediction models in python. It will involve building, improving and
+communicating models from a raw and unclean dataset.
+OUTCOMES:
+★ Able to prepare data appropriately for model building purposes
+★ Able to build a linear regression model in python and test the results of
+predictions
+★ Able to build a logistic regression model in python and test the results of
+predictions
+★ Able to optimize models to enhance performance
+-------------------------------------------------------------------------------------------Instructors
+We take teaching seriously. Great teachers inspire us to connect with topics on a
+profound level. With experience in the field and the classroom, our data science
+instructors are unmatched. Simply put: students learn from the best.
+----------------------------------------------------------------------------Why Data Analytics?
+Join the fastest-growing corner of the tech industry
+More than ever before, industries are capturing data on a variety of topics,
+behaviours and trends. Without data analytics, this information stays stuck - no
+story to tell and no insights to share. In order to determine business goals, more
+13
+and more companies are looking to data analysts to fill in the gaps and find
+opportunities never before considered or understood.
+Over the last 4 years, the rise of job opportunities for data analysts has become
+almost level to those traditionally seen for software engineering positions.
+----------------------------------------------------------------------------------------------------FAQ
+What software tools will we cover in the course?
+You will use the following tools in the course:
+● Excel - mainly used for analysing data
+● Microsoft SQL - to manage large databases
+● Power BI - to build dashboards
+● Python - for programming and building models
+What is the difference between a data analyst and a data scientist?
+A data analyst focus is on statistically analysing, visualising and communicating
+data, and only using basic programming for data analysis. A data scientist uses
+more machine learning algorithms to solve problems and uses complex
+programming for more than just data analyses (e.g. data engineering).
+What are some of the problems will we solve in the course?
+You will solve fun problems like picking the best football team based on player
+stats as well as more practical problems like predicting which policyholder will
+make a medical insurance claim in the next year.
+Will we be doing complex math?
+No. Even though there is complex maths behind some of the models, we won’t
+explicitly cover it. However, the material will be available for those who are
+interested in the details.
+14
+Are there any prerequisites for the course?
+No. If you are sponsored however, you will have to do an online test, bootcamp
+and speed interview.
+How will I be graded?
+At EXPLORE we have what is called the Belt system. You will receive points for
+completing tutorials, test results, project results and peer assessment. These
+points will build up and can be mapped to a certain belt level which ranger from
+white to black.
+Short Courses
+Machine Learning for Actuaries
+---------------------------------------------------------------------------------------------Overview
+Build systems and models that drive decision making and learns
+from data.
+Machine Learning Engineers are key to future decision-making in any data-driven
+company.
+15
+------------------------------------------------------------------------------------------Curriculum
+Start thinking like a machine learning engineer
+Participants will master the model building process and the various machine
+learning algorithms to use when predicting or classifying insurance claims. For
+those not born programmers, there will be pre-course material to cover the
+basics of programming in python. To cover the whole machine learning spectrum
+in a few days is not possible, and therefore there will be post-course material to
+dive deeper into the more complex machine learning techniques - deep learning.
+Download Full Syllabus
+Programming (Pre-course)
+Participants will learn to code in python. From basic syntax to complex logic
+statements and functions. They will also cover utilising external libraries to make
+programming simpler.
+OUTCOMES:
+★ Able to write basic python code and debug errors
+★ Able to write logic statements and for-loops
+★ Able to write functions to code efficiently
+★ Able to import and use libraries such as Numpy and Pandas
+Machine Learning Algorithms
+On day 1 participants will cover the whole model building process using python’s
+Sci-kit Learn library. They will start by pre-processing the data to be ready for
+modeling and then go through the machine learning algorithms for classifying
+whether someone will claim or not - algorithms will include (amongst others)
+logistic regression, random forests and support vector machines. Day 2 will be all
+about regression algorithms to predict the amount claimed for those who
+16
+claimed. Day 3 they will look at unsupervised learning algorithms such as
+clustering and dimensionality reduction.
+OUTCOMES:
+★ Able to pre-process data ready for modeling purposes
+★ Understand the concepts of regression, classification and unsupervised
+learning
+★ Able to build models using python’s Sci-kit Learn library
+★ Able to fine tune and optimise models
+★ Able to select the most important features for model building
+★ Able to cluster data
+Deep Learning Algorithms (Post-course)
+Participants will cover three deep learning algorithms - Artificial Neural Nets,
+Convolutional Neural Nets and Recurrent Neural Nets. They will build models
+using these algorithms in python’s Keras library - for some of these algorithms
+the data will be transformed.
+OUTCOMES:
+★ Understand the structure of neural nets and when to use them
+★ Able to build deep learning models in Keras
+★ Able to transform data to be appropriate for algorithms
+-------------------------------------------------------------------------------------------Instructors
+We take teaching seriously. Great teachers inspire us to connect with topics on a
+profound level. With experience in the field and the classroom, our data science
+instructors are unmatched. Simply put: students learn from the best.
+------------------------------------------------------------------------Why Machine Learning?
+Make better decisions and smart actions in real time without
+human intervention.
+17
+The amount of data being produced is increasing exponentially due to the
+Internet of Things. Data storage is becoming cheaper and processing power is
+becoming greater.
+All of these things above mean that it’s becoming easier and quicker to produce
+models that can analyze bigger/more complex data and deliver more accurate
+results – even on a very large scale. By building prediction models a business has
+a better chance of identifying profitable opportunities – or avoiding unknown
+risks.
+----------------------------------------------------------------------------------------------------FAQ
+What software tools will we cover in the course?
+You will code using Python in a Jupyter Notebook environment.
+What are some of the problems will we solve in the course?
+You will predict whether someone will make an insurance claim in the following
+year and what the amount of that claim will be.
+Will it be technical?
+Yes. Even though there is complex maths behind some of the models, we won’t
+explicitly cover it. We will mainly cover how the algorithms work and how to
+implement them in Python. You are more than welcome to ask technical
+questions.
+Are there any prerequisites for the course?
+No. For those not born programmers, we have pre-course material on
+programming in python, to make sure you can hit the ground running come the
+machine learning on-premise course.
+18
+Will I be graded?
+Yes, however you can’t pass or fail. In order to complete the course you will have
+to submit a few multiple choice quizzes and model building project - however
+these will be done in the 3 days at the bootcamp.
+Which algorithms will we cover in the course?
+Supervised Learning - linear regression, logistic regression, decision trees, random
+forests, SVM’s, k-nearest neighbours.
+Unsupervised learning - variance thresholds, PCA, k-means clustering,
+hierarchical clustering, Gaussian mixture models.
+Machine Learning for Bankers
+---------------------------------------------------------------------------------------------Overview
+Build systems and models that drive decision making and learns
+from data.
+Machine Learning Engineers are key to future decision-making in any data-driven
+company.
+19
+------------------------------------------------------------------------------------------Curriculum
+Start thinking like a machine learning engineer
+Participants will master the model building process and the various machine
+learning algorithms to use when predicting or classifying personal loans. For
+those not born programmers, there will be pre-course material to cover the
+basics of programming in python. To cover the whole machine learning spectrum
+in a few days is not possible, and therefore there will be post-course material to
+dive deeper into the more complex machine learning techniques - deep learning.
+Download Full Syllabus
+Programming (Pre-course)
+Participants will learn to code in python. From basic syntax to complex logic
+statements and functions. They will also cover utilising external libraries to make
+programming simpler.
+OUTCOMES:
+★ Able to write basic python code and debug errors
+★ Able to write logic statements and for-loops
+★ Able to write functions to code efficiently
+★ Able to import and use libraries such as Numpy and Pandas
+Machine Learning Algorithms
+On day 1 participants will cover the whole model building process using python’s
+Sci-kit Learn library. They will start by pre-processing the data to be ready for
+modeling and then go through the machine learning algorithms for classifying
+whether someone will take out a loan or not - algorithms will include (amongst
+others) logistic regression, random forests and support vector machines. Day 2
+will be all about regression algorithms to predict the amount of the loan for those
+20
+who took out a loan. Day 3 they will look at unsupervised learning algorithms
+such as clustering and dimensionality reduction.
+OUTCOMES:
+★ Able to pre-process data ready for modeling purposes
+★ Understand the concepts of regression, classification and unsupervised
+learning
+★ Able to build models using python’s Sci-kit Learn library
+★ Able to fine tune and optimise models
+★ Able to select the most important features for model building
+★ Able to cluster data
+Deep Learning Algorithms (Post-course)
+Participants will cover three deep learning algorithms - Artificial Neural Nets,
+Convolutional Neural Nets and Recurrent Neural Nets. They will build models
+using these algorithms in python’s Keras library - for some of these algorithms
+the data will be transformed.
+OUTCOMES:
+★ Understand the structure of neural nets and when to use them
+★ Able to build deep learning models in Keras
+★ Able to transform data to be appropriate for algorithms
+-------------------------------------------------------------------------------------------Instructors
+We take teaching seriously. Great teachers inspire us to connect with topics on a
+profound level. With experience in the field and the classroom, our data science
+instructors are unmatched. Simply put: students learn from the best.
+------------------------------------------------------------------------Why Machine Learning?
+Make better decisions and smart actions in real time without
+human intervention.
+21
+The amount of data being produced is increasing exponentially due to the
+Internet of Things. Data storage is becoming cheaper and processing power is
+becoming greater.
+All of these things above mean that it’s becoming easier and quicker to produce
+models that can analyze bigger/more complex data and deliver more accurate
+results – even on a very large scale. By building prediction models a business has
+a better chance of identifying profitable opportunities – or avoiding unknown
+risks.
+----------------------------------------------------------------------------------------------------FAQ
+What software tools will we cover in the course?
+You will code using Python in a Jupyter Notebook environment.
+What are some of the problems will we solve in the course?
+You will predict whether someone will take out a personal loan and what the
+amount will be.
+Will it be technical?
+Yes. Even though there is complex maths behind some of the models, we won’t
+explicitly cover it. We will mainly cover how the algorithms work and how to
+implement them in Python. You are more than welcome to ask technical
+questions.
+Are there any prerequisites for the course?
+No. For those not born programmers, we have pre-course material on
+programming in python, to make sure you can hit the ground running come the
+machine learning on-premise course.
+22
+Will I be graded?
+Yes, however you can’t pass or fail. In order to complete the course you will have
+to submit a few multiple choice quizzes and model building project - however
+these will be done in the 3 days at the bootcamp.
+Which algorithms will we cover in the course?
+Supervised Learning - linear regression, logistic regression, decision trees, random
+forests, SVM’s, k-nearest neighbours.
+Unsupervised learning - variance thresholds, PCA, k-means clustering,
+hierarchical clustering, Gaussian mixture models.
+Data Science for Management
+---------------------------------------------------------------------------------------------Overview
+Learn more about the sexiest career of the 21st century.
+Data Science is one of the fastest growing careers with some of the highest
+salaries paid.
+23
+------------------------------------------------------------------------------------------Curriculum
+Start thinking like a data scientist
+This course will provide participants with the knowledge and awareness of data
+science, enabling them to manage data scientists. The course will cover what
+data science is and what process to follow to solve data related problems.
+Material will range from the steps to cleaning data to choosing the best
+prediction model.
+Download Full Syllabus
+Data Science Process and Exploring Data
+Day 1 the participants will be taken through the GAVC framework for solving data
+related problems as well as explore the recent data science trends and practical
+use cases. Data will be prepared in Excel and explored by building a dashboard in
+Power BI.
+OUTCOMES:
+★ Understand the process of solving problems with data
+★ Aware of recent trends and practical use cases
+★ Understand and able to perform the data cleaning steps
+★ Understand the usefulness of dashboards and able to build one in Power
+BI
+Prescriptive Analytics and Model building
+Day 2 the participants will be taken through the steps in model building as well
+as the various models available out there. Different models are preferred in
+different cases - these instances will be explored in order to select the appropriate
+model for the given problem.
+OUTCOMES:
+24
+★ Understand the steps in the model building process
+★ Aware of the different prediction models available and when to use which
+★ Able to identify use cases in your specific domain where data science can
+be utilised
+-------------------------------------------------------------------------------------------Instructors
+We take teaching seriously. Great teachers inspire us to connect with topics on a
+profound level. With experience in the field and the classroom, our data science
+instructors are unmatched. Simply put: students learn from the best.
+----------------------------------------------------------------------------Why Data Science?
+Join the fastest-growing corner of the tech industry
+More than ever before, industries are capturing data on a variety of topics,
+behaviours and trends. Without data science, this information stays stuck - no
+story to tell and no insights to share. In order to determine business goals, more
+and more companies are looking to data scientists to fill in the gaps and find
+opportunities never before considered or understood.
+Over the last 4 years, the rise of job opportunities for data scientists has become
+almost level to those traditionally seen for software engineering positions.
+25
+----------------------------------------------------------------------------------------------------FAQ
+What software tools will we cover in the course?
+You will use the following tools in the course:
+● Excel - mainly used for cleaning and analysing data
+● Power BI - to explore data and build dashboards
+What are some of the problems will we solve in the course?
+You will solve problems like predicting which customers will take out a loan and
+what customers are saying about banks on social media.
+Will it be technical?
+No. Even though there is complex maths behind some of the models, we won’t
+explicitly cover it. We will mainly cover the high level concepts.
+Are there any prerequisites for the course?
+No. If you are interested in data science and want to know what it is capable of,
+you should do the course.
+Will I be graded?
+No. There will be two multiple choice quizzes to test your gained knowledge as
+well as numerous fun group challenges to keep everyone engaged and awake.
+Machine Learning for Retailers
+---------------------------------------------------------------------------------------------Overview
+Build systems and models that drive decision making and learns
+from data.
+26
+Machine Learning Engineers are key to future decision-making in any data-driven
+company.
+------------------------------------------------------------------------------------------Curriculum
+Start thinking like a machine learning engineer
+Participants will master the model building process and the various machine
+learning algorithms to use when predicting or classifying customer spend and
+new product take-up rates. For those not born programmers, there will be
+pre-course material to cover the basics of programming in python. To cover the
+whole machine learning spectrum in a few days is not possible, and therefore
+there will be post-course material to dive deeper into the more complex machine
+learning techniques - deep learning.
+Download Full Syllabus
+27
+Programming (Pre-course)
+Participants will learn to code in python. From basic syntax to complex logic
+statements and functions. They will also cover utilising external libraries to make
+programming simpler.
+OUTCOMES:
+★ Able to write basic python code and debug errors
+★ Able to write logic statements and for-loops
+★ Able to write functions to code efficiently
+★ Able to import and use libraries such as Numpy and Pandas
+Machine Learning Algorithms
+On day 1 participants will cover the whole model building process using python’s
+Sci-kit Learn library. They will start by pre-processing the data to be ready for
+modeling and then go through the machine learning algorithms for classifying
+whether someone will take out a new product - algorithms will include (amongst
+others) logistic regression, random forests and support vector machines. Day 2
+will be all about regression algorithms to predict the amount customers spend in
+a given timeframe. Day 3 they will look at unsupervised learning algorithms such
+as clustering and dimensionality reduction.
+OUTCOMES:
+★ Able to pre-process data ready for modeling purposes
+★ Understand the concepts of regression, classification and unsupervised
+learning
+★ Able to build models using python’s Sci-kit Learn library
+★ Able to fine tune and optimise models
+★ Able to select the most important features for model building
+★ Able to cluster data
+Deep Learning Algorithms (Post-course)
+Participants will cover three deep learning algorithms - Artificial Neural Nets,
+Convolutional Neural Nets and Recurrent Neural Nets. They will build models
+using these algorithms in python’s Keras library - for some of these algorithms
+the data will be transformed.
+OUTCOMES:
+★ Understand the structure of neural nets and when to use them
+★ Able to build deep learning models in Keras
+★ Able to transform data to be appropriate for algorithms
+-------------------------------------------------------------------------------------------Instructors
+28
+We take teaching seriously. Great teachers inspire us to connect with topics on a
+profound level. With experience in the field and the classroom, our data science
+instructors are unmatched. Simply put: students learn from the best.
+------------------------------------------------------------------------Why Machine Learning?
+Make better decisions and smart actions in real time without
+human intervention.
+The amount of data being produced is increasing exponentially due to the
+Internet of Things. Data storage is becoming cheaper and processing power is
+becoming greater.
+All of these things above mean that it’s becoming easier and quicker to produce
+models that can analyze bigger/more complex data and deliver more accurate
+results – even on a very large scale. By building prediction models a business has
+a better chance of identifying profitable opportunities – or avoiding unknown
+risks.
+29
+----------------------------------------------------------------------------------------------------FAQ
+What software tools will we cover in the course?
+You will code using Python in a Jupyter Notebook environment.
+What are some of the problems will we solve in the course?
+You will predict whether someone will take out a new product and how much
+someone will spend in a given timeframe.
+Will it be technical?
+Yes. Even though there is complex maths behind some of the models, we won’t
+explicitly cover it. We will mainly cover how the algorithms work and how to
+implement them in Python. You are more than welcome to ask technical
+questions.
+Are there any prerequisites for the course?
+No. For those not born programmers, we have pre-course material on
+programming in python, to make sure you can hit the ground running come the
+machine learning on-premise course.
+Will I be graded?
+Yes, however you can’t pass or fail. In order to complete the course you will have
+to submit a few multiple choice quizzes and model building project - however
+these will be done in the 3 days at the bootcamp.
+Which algorithms will we cover in the course?
+Supervised Learning - linear regression, logistic regression, decision trees, random
+forests, SVM’s, k-nearest neighbours.
+Unsupervised learning - variance thresholds, PCA, k-means clustering,
+hierarchical clustering, Gaussian mixture models.
+Advanced Visualisation
+---------------------------------------------------------------------------------------------Overview
+Learn how to tell a story with your data.
+Visually displaying data in an elegant way to tell a complex story is becoming one
+of the most sought after skills in the data science industry.
+30
+------------------------------------------------------------------------------------------Curriculum
+Start thinking like a Business Intelligence expert
+Participants will learn the art of visualising data and building attractive
+dashboards in Power BI to tell powerful stories. This will include gathering data
+from various sources and connecting it all in Power BI, creating measures with
+the data to calculate important metrics and using built-in and custom visuals to
+build a dynamic and interactive dashboard. They will also learn how to publish
+dashboards to share their story with others.
+Download Full Syllabus
+Principles of Visualisation and Power BI Basics
+On day 1 participants will explore the art of visualisation and when to use which
+visuals. They will then get to grips with Power BI by going through the basics,
+importing the data, cleaning it and calculating important metrics.
+OUTCOMES:
+★ Understand when to use which visuals
+★ Able to apply the principles of visualisation
+★ Able to load data from various sources into Power BI
+★ Able to clean data in Power BI
+★ Able to create new columns and measures to calculate important metrics
+Building Dashboards
+On day 2 participants will cover the principles of building a dashboard and then
+create their own - building a dashboard to tell a story of the RCB IPL cricket
+team’s performance (as a team and individuals). They will also learn how to
+31
+automatically refresh the underlying data and publish it to share it with the rest
+of the world.
+OUTCOMES:
+★ Able to use built-in and custom visuals in Power BI
+★ Able to build a dynamic, interactive dashboard
+★ Able automatically refresh data underlying the dashboard
+★ Able to publish and share dashboard with others
+-------------------------------------------------------------------------------------------Instructors
+We take teaching seriously. Great teachers inspire us to connect with topics on a
+profound level. With experience in the field and the classroom, our data science
+instructors are unmatched. Simply put: students learn from the best.
+----------------------------------------------------------------------------Why Visualise?
+Turn complex problems into simple visuals.
+Complex technologies and programming languages involved in data
+science make it hard for non-technical people to understand it. That’s
+when data visualization comes into play and allows those less technical to
+grasp what is being said.
+Dashboards enable us to create this visual story. Power BI has been one of
+the leaders in the industry when it comes to dashboarding software.
+32
+----------------------------------------------------------------------------------------------------FAQ
+What software tools will we cover in the course?
+You will use Power BI for the duration of the course..
+What are some of the problems will we solve in the course?
+You will build a dashboard tell a story of the RCB IPL cricket team’s performance
+(as a team and individuals).
+Are there any prerequisites for the course?
+No. Only a hunger to learn more about visualisation and dashboard building.
+Will I be graded?
+No, however in order to complete the course you will have to submit a few
+multiple choice quizzes and a dashboard - these will be done in the 2 days at the
+bootcamp.
+Advanced Python
+---------------------------------------------------------------------------------------------Overview
+Learn to automate processes and analyses.
+Programming is one of the most important job skills for the future.
+33
+------------------------------------------------------------------------------------------Curriculum
+Start thinking like a programmer
+Participants will learn how to utilise the power of Python. They will start by
+covering the basics such as working with data types and variables to more
+complex topics such as writing functions, using loops and conditional statements.
+They will also learn to import and use libraries.
+Download Full Syllabus
+Python Fundamentals
+34
+On day 1 of the bootcamp, participants will cover the basics of programming in
+python - basic syntax, data types, debugging errors, using variables and logic
+statements, coding for-loops and writing functions.
+OUTCOMES:
+★ Able to work with various data types in Python - numbers, lists, strings,
+booleans, dictionaries, tuples, sets
+★ Able to use logic statements
+★ Able to write for-loops and while-loops
+★ Able to debug errors
+★ Able to write functions to perform tasks more efficiently
+Python Libraries
+On day 2 of the bootcamp, participants will utilise external libraries in python for
+data analysis - Numpy and Pandas. They will also write functions to select the
+most optimal football teams based on player attributes and positions.
+OUTCOMES:
+★ Able to work with numpy arrays
+★ Able to work with pandas dataframes
+★ Able to manipulate pandas dataframes
+-------------------------------------------------------------------------------------------Instructors
+We take teaching seriously. Great teachers inspire us to connect with topics on a
+profound level. With experience in the field and the classroom, our data science
+instructors are unmatched. Simply put: students learn from the best.
+-------------------------------------------------------------------Why Python Programming?
+Master one of the most sought after skills of the future.
+35
+Programming is important for speeding up processes as well as to automate,
+collect, manage, calculate, analyze processing of data and information accurately.
+People should program because it develops structured and creative thinking, and
+teaches persistence.
+Python is one of the best languages to learn for the following reasons:
+● One of the easiest programming languages to learn
+● It’s opensource with a lot of documentation and online help
+● It’s used by many big companies such as Google and Netflix
+● It’s free
+----------------------------------------------------------------------------------------------------FAQ
+What software tools will we cover in the course?
+You will use Python in the Jupyter Notebook environment for the duration of the
+course.
+What are some of the problems will we solve in the course?
+You will write functions to select the optimal football team based on player
+positions and attributes.
+36
+Are there any prerequisites for the course?
+No. Only a hunger to learn to code.
+Will I be graded?
+No, however in order to complete the course you will have to submit a few
+multiple choice quizzes and a python script - these will be done in the 2 days at
+the bootcamp.
+Analytics Translator
+---------------------------------------------------------------------------------------------Overview
+Explore the ways to make an invaluable contribution to your
+business.
+Data Analysts are some of the most important employees in any business
+structure.
+------------------------------------------------------------------------------------------Curriculum
+37
+Start thinking like a data analyst
+Program info
+Fundamentals
+xxx
+OUTCOMES:
+★ xx
+★ xx
+★ xx
+Programming
+xxx
+OUTCOMES:
+★ xx
+★ xx
+★ xx
+Sprints
+xxx
+OUTCOMES:
+★ xx
+★ xx
+★ xx
+-------------------------------------------------------------------------------------------Instructors
+We take teaching seriously. Great teachers inspire us to connect with topics on a
+profound level. With experience in the field and the classroom, our data science
+instructors are unmatched. Simply put: students learn from the best.
+38
+----------------------------------------------------------------------------Why Data Analytics?
+Join the fastest-growing corner of the tech industry
+xxxxxxx
+----------------------------------------------------------------------------------------------------FAQ
+Can i …
+xxxxx
+Can i
+xxxx
+39

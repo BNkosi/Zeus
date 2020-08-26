@@ -1,0 +1,107 @@
+MACHINE LEARNING 
+FOR ANALYSTS
+PROSPECTUS
+ Table of Contents
+1. EXPLORE Overview
+2. Why Visualisation?
+3. Curriculum Overview
+4. EXPLORE Philosophy: Solving problems in the real 
+world
+5. Contact Information 
+ EXPLORE Overview
+EXPLORE is a next generation Learning 
+Institution  that  teaches  students  the 
+skills of the future. From Data Science to 
+Data Engineering to Machine Learning 
+to  Deep  Learning  we  deliver  cutting 
+edge courses to satisfy your hunger to 
+learn
+learn. Our Programmes are built by an amazing Faculty -  we 
+employ some of the world’s most talented Scientists who have 
+experience solving difﬁcult problems on a global stage. 
+Our philosophy is to teach our students how to solve problems 
+in the real world. We emphasise team-work, collaboration and 
+working  within  constraints,  under  pressure,  with  deadlines 
+while  understanding  context,  audience  and  implementation 
+challenges. We are not a theoretical institution (although we 
+cover  the  theory)  -  we  are  a  ‘practical,  hands-on, 
+roll-up-your-sleeves and get stuff done’ kind of institution. As 
+real-world Scientists who have delivered impact in the world of 
+work we’re well positioned to deliver these skills. 
+EXPLORE  launched  during  2013  and  since  then  has  taught 
+1,000’s of students and solved many problems for businesses 
+across multiple Industries across the world. We’re reinventing 
+education and invite you to join us to change things for the 
+better.
+ 
+ Why Machine Learning?
+Four megatrends are fundamentally changing the shape of our 
+world: 
+1. Vast amounts of data are being generated every minute. 
+2. The  processing  speed  of  our  machines  is  increasing 
+exponentially.
+3. We  now  have  cloud  providers  who  can  store  insane 
+amounts of data for a few dollars. 
+4. Powerful  open  source  algorithms  that  can  read,  write, 
+translate and see are now available to everyone. 
+All of these things above mean that it’s becoming easier and 
+quicker  to  produce  models  that  can  analyze  bigger/more 
+complex data and deliver more accurate results – even on a 
+very large scale. By building prediction models a business has a 
+better  chance  of  identifying  proﬁtable  opportunities  –  or 
+avoiding unknown risks.
+ Curriculum
+Machine Learning for Analysts
+Duration: 3 months Recommended Time: 80 hours
+Tools Learnt:
+What is covered in the course:
+Python Programming
+➔ Interactive vs scripting mode
+Python 
+➔ Basic data types
+Fundamentals
+➔ Conditional statements - IF and ELSE IF
+➔ Creating and working with functions
+Python Data  ➔ Working with Strings, Numbers, Booleans
+Structures ➔ Lists and Tuples Semantics
+➔ Sets and Dictionaries Semantics
+➔ Importing Data - using Numpy and Pandas 
+libraries
+➔ Working with Data Frames
+Machine Learning Algorithms
+➔ Pre-processing data (encoding, train/test split)
+Supervised 
+➔ Linear and Logistic Regression
+learning
+➔ Decision Trees and Random Forests
+➔ Support Vector Machines
+➔ K Nearest Neighbors
+Unsupervised  ➔ Dimensionality reduction techniques - 
+learning Variance Thresholds, Principal Component 
+Analysis
+➔ Clustering algorithms - KMeans, Hierarchical, 
+Gaussian Mixture Models
+ EXPLORE Philosophy: 
+Solving problems in the real world
+At EXPLORE we focus on building our student’s ability to solve 
+problems in the real world. Building things that work and make 
+a difference is hard - that’s what we teach. 
+We’re not a traditional learning institution that spends weeks 
+teaching  matrix  multiplication  on  a  whiteboard  (although 
+understanding  that  is  useful)  -  we’re  a  practical, 
+solution-orientated  institution  that  teaches  our  students  to 
+work  in  teams,  under  pressure,  with  deadlines  while 
+understanding context, constraints and the audience. 
+Our courses are typically broken into Sprints where we teach a 
+core set of concepts within the framework of solving a problem 
+in a team with a tight deadline.
+Students cycle from Sprint to Sprint solving different problems 
+in  different  teams  as  they  build  this  core  muscle  over  the 
+course.
+ Contact Information
+For any admissions related enquiries mail us on: 
+admission@explore-ai.net
+For any general enquiries mail us on: 
+general@explore-ai.net 
+Visit: www.explore-datascience.net 
+ 

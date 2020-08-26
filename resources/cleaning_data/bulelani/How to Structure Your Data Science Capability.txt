@@ -1,0 +1,106 @@
+How to structure
+your Data Science
+Capability
+What makes sense for you?
+ Managing the organisation’s data function
+Where to house your Data Science capability involves several key design decisions. 
+Companies typically pursue one of four models:
+Business unit led with
+Business unit led
+central support
+If the business units in the organi- When the business units are ana-
+zation manage their own data sets  lytically self-sufﬁcient but there are 
+and have internal analytics capabil- many BU’s it often makes sense to 
+ities, they can run their own analyt- leverage the support of a central 
+ics functions with limited coordina- capability.
+tion.
+Center of Excellence Fully centralized
+An independent centre oversees  A Corporate Function is set up and 
+the company’s Data efforts. Units  takes direct responsibility for iden-
+pursue initiatives under the CoE’s  tifying, prioritizing and delivering 
+guidance and coordination. all Data initiatives.
+1
+ It is important to note that IT does not own any of the models above. While IT often 
+plays a critical role in providing and maintaining the infrastructure and tools 
+required to execute the Analytics initiatives, it is critical to note that business runs 
+and owns the functions. 
+So which model is best? That depends mainly on:
+1. EXISTING ANALYTICS CAPABILITIES
+Companies with existing deep analytics capabilities can rely on a generally decen-
+tralized approach but this is an exception to the rule from what we’ve seen.
+2. STRATEGIC AMBITION
+Companies that are fully data-driven organisations, need to maintain talent and 
+focus close to the most important business problems - which is most suited to a 
+centralized approach. 
+For any organisation, the choice of structure is not ﬁxed for the long-term, but may 
+change  many  times  as  the  analytics  maturity  and  ambition  of  the  company 
+evolves. 
+From our experience many companies ﬁnd that a Centre of Excellence has the 
+1. A Centre of Excellence enables BU’s to share learnings and best practice. 
+2. It allows the business to build a large  set of data lakes that usually allows 
+insights that would otherwise not have been possible. 
+3. The Centre of Excellence enables synergies and scale benefits and is often 
+the best mechanism for an organisation to accelerate its Data Science jour-
+ney.
+2
+ Setting up a Centre of Excellence
+This is not a quick or easy task. It requires strong analytics leadership as well as an 
+A-Team of Data Scientists, Engineers, Analysts and Analytics Translators. Setting 
+up a central unit like this typically takes 12-18 months and, to make a success of it, 
+requires bold leadership that steps on toes and upsets the status quo.
+Beyond the center of excellence (COE), employees at all levels need to be trained.
+Senior Leaders Managers
+Business leaders of a  Business users (ie, mid-level 
+transformation or a use-case  managers) of  the outputs of 
+implementation analytics models and insights
+Board
+Top Team
+Analytics COE Business-unit 1 Business-unit 2
+Data  Data 
+Design
+Science Enginerring
+Analytics Specialists Analytics Translators
+Design and build analytics  Collaborate with the business to 
+models Iterate/reﬁne models  understand the need and can 
+based on business and user  guide analytics design to meet 
+3
+ Our Recommendations
+Choose the structure that makes the most sense for
+your current business taking into account your analytics
+maturity and strategic ambition. Re-evaluate this
+decision frequently to re-assess the role of Data Science
+in the organisation and what structure best delivers the
+outcomes you require.
+Setting up a Centre of Excellence has many benefits,
+but requires the coordination and commitment of the
+entire organisation, something which takes extensive
+time and effort. 
+When no single structure makes sense for an
+organisation, consider a hybrid model e.g. managing
+outsourced and remote talent vs full-time data resources.
+4
+ ABOUT EXPLORE
+EXPLORE is a next generation learning institution on a mission to deliver Digital 
+Skills at scale. It has worked with many Blue Chips, both locally and globally, help-
+ing them transform to become more Data-Driven and Insights-led.
+Our services include:
+BUILDING A PIPELINE OF DATA UPSKILLING YOUR
+TALENT FOR YOUR ORGANIZATION CURRENT WORKFORCE
+EXPLORE teaches a range of cours- We have a range of short and long 
+es that include Data Science, Data  courses for your workforce so that 
+Analytics, Data Engineering and  they are ready to reset their skill-sets 
+Data Translation where you can  and turbo-charge their careers into 
+sponsor the next generation of  the Digital Age.
+digital talent.
+PLACING SCARCE DIGITAL PRODUCTS AND
+SKILLS INTO YOUR BUSINESS SERVICES
+We have access to a long list of  We have some of the best Scientists 
+talented skills that we can match to  around who have decades of experi-
+your company’s needs to best set  ence solving problems, both locally 
+you up for success. and globally. Currently we’re work-
+ing for Blue Chips in South Africa 
+and across the UK in the Utulities 
+and Financial Services industries.
+5
+ EXPLORE-DIGITAL.NET
+ 

@@ -1,0 +1,272 @@
+MACHINE LEARNING
+PROSPECTUS
+ Table of Contents
+1. EXPLORE Overview
+2. Why Machine Learning?
+3. Curriculum Overview
+a. Module 1: Python Fundamentals
+b. Module 2: Python Data Structures
+c. Module 3: Classiﬁcation Techniques
+d. Module 4:Regression Techniques
+e. Module 5: Unsupervised Learning
+f. Module 6: Deep Learning
+4. EXPLORE Philosophy: Solving problems in the real 
+world
+5. Contact Information 
+ EXPLORE Overview
+EXPLORE is a next generation Learning 
+Institution  that  teaches  students  the 
+skills of the future. From Data Science to 
+Data Engineering to Machine Learning 
+to  Deep  Learning  we  deliver  cutting 
+edge courses to satisfy your hunger to 
+learn
+learn. Our Programmes are built by an amazing Faculty -  we 
+employ some of the world’s most talented Scientists who have 
+experience solving difﬁcult problems on a global stage. 
+Our philosophy is to teach our students how to solve problems 
+in the real world. We emphasise team-work, collaboration and 
+working  within  constraints,  under  pressure,  with  deadlines 
+while  understanding  context,  audience  and  implementation 
+challenges. We are not a theoretical institution (although we 
+cover  the  theory)  -  we  are  a  ‘practical,  hands-on, 
+roll-up-your-sleeves and get stuff done’ kind of institution. As 
+real-world Scientists who have delivered impact in the world of 
+work we’re well positioned to deliver these skills. 
+EXPLORE  launched  during  2013  and  since  then  has  taught 
+1,000’s of students and solved many problems for businesses 
+across multiple Industries across the world. We’re reinventing 
+education and invite you to join us to change things for the 
+better.
+ 
+ Why Machine Learning?
+Four megatrends are fundamentally changing the shape of our 
+world: 
+1. Vast amounts of data are being generated every minute. 
+2. The  processing  speed  of  our  machines  is  increasing 
+exponentially.
+3. We  now  have  cloud  providers  who  can  store  insane 
+amounts of data for a few dollars. 
+4. Powerful  open  source  algorithms  that  can  read,  write, 
+translate and see are now available to everyone. 
+All of these things above mean that it’s becoming easier and 
+quicker  to  produce  models  that  can  analyze  bigger/more 
+complex data and deliver more accurate results – even on a 
+very large scale. By building prediction models a business has a 
+better  chance  of  identifying  proﬁtable  opportunities  –  or 
+avoiding unknown risks.
+ Curriculum Overview
+The course will start by covering the basics of programming in 
+python  -  building  functions  to  automate  analysis.  After  the 
+foundations have been set, participants will master the model 
+building process and the various machine learning algorithms 
+to use as well as exploring techniques such as clustering and 
+natural language processing. In the ﬁnal phase participants will 
+dive  deeper  into  the  more  complex  machine  learning 
+techniques - deep learning, where they will cover all the various 
+neural networks.
+Phase  Module  Weeks
+Programming Python Fundamentals 3 weeks
+Python Data Structures 3 weeks
+Machine Learning Classiﬁcation Techniques 4 weeks
+Regression Techniques 4 weeks
+Unsupervised Learning 4 weeks
+Deep Learning 4 weeks 
+ Module 1
+Python Fundamentals
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+Project: Build a ﬁnancial calculator
+What is covered in Module 1:
+Python Programming Basics
+➔ What is programming
+Basic Concepts
+➔ Installing Jupyter environment
+➔ Pseudo code and debugging concepts
+➔ Interactive vs scripting mode
+Variables,  ➔ Print statements
+Expressions and  ➔ Working with primitive data types - variables, 
+Statements strings, integers, ﬂoating points, booleans
+➔ Math functions and relational operators
+➔ Importing modules
+Logic and Functions
+➔ Conditional statements - IF and ELSE IF
+Working with 
+➔ Working with lists 
+Logic
+➔ For loops and while loops
+➔ Break | Continue principles
+Writing  ➔ How functions work - basic syntax
+Functions ➔ Creating and working with functions
+➔ Parameters in functions
+➔ Local and global variables
+ Module 2
+Python Data Structures
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+Project:  Build functions to select the most optimal football team
+What is covered in Module 2:
+Data Types
+➔ What is a String?
+Working with 
+➔ What is a Number?
+Basic Structures
+➔ What is a Boolean?
+➔ Working with Strings, Numbers, Booleans
+Working with  ➔ Lists and Tuples Semantics
+Lists and Tuples ➔ Lists and Tuples Operations
+➔ Working with Comparisons
+➔ Working with Statements
+Dataframes and using Libraries
+➔ Sets and Dictionaries Semantics
+Working with 
+➔ Sets and Dictionaries  Operations
+Sets and 
+➔ Working with Comparisons
+Dictionaries
+➔ Working with Statements
+Working with  ➔ Importing Data - using Numpy and Pandas 
+Data Sets libraries
+➔ Working with Data Frames
+➔ Retrieving and Storing Data
+➔ Transforming Data
+ Module 3
+Classiﬁcation Techniques
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+Project: Predict if someone will take out a personal loan or not
+What is covered in Module 3:
+Pre-processing and Model Building
+➔ Basics of Scikit Learn library in Python
+Preparing data for 
+➔ Deﬁne features and labels
+modelling
+➔ Train/test split
+➔ Encoding categorical features
+➔ Standardizing features
+Steps to build a  ➔ Overview of classiﬁcation
+model ➔ Logistic regression models
+➔ Build and train models in python
+➔ Make predictions using trained model
+➔ Test model output - confusion matrix, 
+classiﬁcation report
+Classiﬁcation Algorithms
+➔ K nearest neighbors
+Algorithms for 
+➔ Decision trees
+classification 
+➔ Random forests
+models 
+➔ Support vector machines
+Optimizing  ➔ Optimizing model performance by tuning 
+model  hyperparameters
+performance ➔ Gridsearch techniques
+➔ Which models to use when
+ Module 4
+Regression Techniques
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+Project: Using features of a house alone, predict the sale price
+What is covered in Module 4:
+Regression Algorithms
+➔ Overview of regression
+Steps to build a 
+➔ Linear regression models
+model
+➔ Train models and make predictions
+➔ Regularization techniques - Ridge, Lasso
+➔ Test model output - MSE, MAE, RMSE
+Algorithms for  ➔ K nearest neighbors
+regression models ➔ Decision trees
+➔ Random forests
+➔ Support vector machines
+➔ Optimizing model performance by tuning 
+hyperparameters
+Dimensionality Reduction
+➔ Determining signiﬁcant features - linear and 
+Feature selection
+non-linear methods
+➔ Variance Thresholds to drop features
+➔ Correlations Thresholds
+Features  ➔ Principal component analysis
+extraction ➔ Linear discriminant analysis
+➔ Interpreting extracted features and 
+transforming them back
+ Module 5
+Unsupervised Learning
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+Project: Cluster customer reviews into themes
+What is covered in Module 5:
+Natural Language Processing
+➔ Overview of NLTK library in python - for NLP
+Overview of NLP
+➔ Removing punctuation and symbols
+➔ Tokenizing text
+➔ Stopwords and removing them
+Analysing text ➔ Lemmatization of words 
+➔ Bag of words
+➔ Sentiment analysis
+Clustering
+➔ What is clustering?
+Hard and 
+➔ Various forms of clustering - hard, hierarchical, 
+Hierarchical 
+soft
+Clustering
+➔ K-Means Clustering
+➔ Hierarchical Clustering
+Soft Clustering ➔ Gaussian Mixture Models
+➔ LDE clustering of text
+➔ Labelling data using cluster output
+ Module 6
+Deep Learning
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+Project: Predict the characters present in a handwritten image
+What is covered in Module 6:
+Artiﬁcial neural Network
+➔ Overview of a neuron
+How a Neural 
+➔ Structure of a neural network
+Network works
+➔ Backpropagation and gradient descent
+➔ Learning rate and batch sizes when training a 
+neural network
+Building and  ➔ Building classiﬁcation / regression ANN 
+using ANN’s models in keras
+➔ Make predictions using ANN and test model 
+output
+➔ Tuning hyperparameters (learning rate, 
+batch size, nodes in each layer)
+Other Neural Networks
+➔ Building classiﬁcation / regression CNN models 
+Building and 
+in keras
+using CNN’s
+➔ Make predictions using CNN and test model 
+output
+➔ Tuning hyperparameters
+Building and  ➔ Building classiﬁcation / regression RNN 
+using RNN’s models in keras
+➔ Make predictions using RNN and test model 
+output
+➔ Tuning hyperparameters
+ EXPLORE Philosophy: 
+Solving problems in the real world
+At EXPLORE we focus on building our student’s ability to solve 
+problems in the real world. Building things that work and make 
+a difference is hard - that’s what we teach. 
+We’re not a traditional learning institution that spends weeks 
+teaching  matrix  multiplication  on  a  whiteboard  (although 
+understanding  that  is  useful)  -  we’re  a  practical, 
+solution-orientated  institution  that  teaches  our  students  to 
+work  in  teams,  under  pressure,  with  deadlines  while 
+understanding context, constraints and the audience. 
+Our courses are typically broken into Sprints where we teach a 
+core set of concepts within the framework of solving a problem 
+in a team with a tight deadline.
+Students cycle from Sprint to Sprint solving different problems 
+in  different  teams  as  they  build  this  core  muscle  over  the 
+course.
+ Contact Information
+For any admissions related enquiries mail us on: 
+admission@explore-ai.net
+For any general enquiries mail us on: 
+general@explore-ai.net 
+Visit: www.explore-datascience.net 
+ 
