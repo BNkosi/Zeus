@@ -1,4 +1,3 @@
-  
 import json
 import logging
 import time
@@ -65,36 +64,38 @@ else:
                      f"OR modify rest_api/search.py to support your retriever"
                      )
 
-if READER_MODEL_PATH: # for etractive doc-qa
+
+if READER_MODEL_PATH:  # for extractive doc-qa
     if READER_TYPE == "TransformersReader":
         use_gpu = -1 if not USE_GPU else GPU_NUMBER
         reader = TransformersReader(
-            model = str(READER_MODEL_PATH),
+            model=str(READER_MODEL_PATH),
             use_gpu=use_gpu,
             context_window_size=CONTEXT_WINDOW_SIZE,
             tokenizer=str(READER_TOKENIZER)
-        )   # type: Optional[FARMReader]
+        )  # type: Optional[FARMReader]
     elif READER_TYPE == "FARMReader":
         reader = FARMReader(
             model_name_or_path=str(READER_MODEL_PATH),
             batch_size=BATCHSIZE,
             use_gpu=USE_GPU,
-            conext_window_size=CONTEXT_WINDOW_SIZE,
+            context_window_size=CONTEXT_WINDOW_SIZE,
             top_k_per_candidate=TOP_K_PER_CANDIDATE,
             no_ans_boost=NO_ANS_BOOST,
             num_processes=MAX_PROCESSES,
             max_seq_len=MAX_SEQ_LEN,
             doc_stride=DOC_STRIDE,
-        )   # type: Optional[FARMReader]
+        )  # type: Optional[FARMReader]
     else:
         raise ValueError(f"Could not load Reader of type '{READER_TYPE}'. "
                          f"Please adjust READER_TYPE to one of: "
                          f"'FARMReader', 'TransformersReader', None"
                          )
 else:
-    reader = None
+    reader = None  # don't need one for pure FAQ matching
 
 FINDERS = {1: Finder(reader=reader, retriever=retriever)}
+
 
 #############################################
 # Data schema for request & response
@@ -105,11 +106,12 @@ class Question(BaseModel):
     top_k_reader: int = DEFAULT_TOP_K_READER
     top_k_retriever: int = DEFAULT_TOP_K_RETRIEVER
 
+
 class Answer(BaseModel):
     answer: Optional[str]
     question: Optional[str]
     score: Optional[float] = None
-    probability: Optional[Float] = None
+    probability: Optional[float] = None
     context: Optional[str]
     offset_start: int
     offset_end: int
@@ -118,66 +120,72 @@ class Answer(BaseModel):
     document_id: Optional[str] = None
     meta: Optional[Dict[str, Optional[str]]]
 
-class AnswersToIndividualQuestions(BaseModel):
+
+class AnswersToIndividualQuestion(BaseModel):
     question: str
     answers: List[Optional[Answer]]
 
+
 class Answers(BaseModel):
-    results: List[AnswersToIndividualQuestions]
+    results: List[AnswersToIndividualQuestion]
+
 
 #############################################
 # Endpoints
 #############################################
-
 doc_qa_limiter = RequestLimiter(CONCURRENT_REQUEST_PER_WORKER)
 
 @router.post("/models/{model_id}/doc-qa", response_model=Answers, response_model_exclude_unset=True)
 def doc_qa(model_id: int, request: Question):
-    start_time = time.time()
-    finder = FINDERS.get(model_id, None)
-    if not finder:
-        raise HTTPException(
-            status code=404, detail=f"Couldn't get Finder with ID{model_id}. Available IDs: {list(FINDERS.keys())}"
-        )
-    
-    results = []
-    for question in request.questions:
-        if request.filters:
-            # put filter values into a list and remove filters with null value
-            filtes = {ke: [value] for key, value in request.filters.items() if value id not None}
-            logger.info(f" [{datetime.now()}] Request: {request}")
-        else:
-            filters = {}
+    with doc_qa_limiter.run():
+        start_time = time.time()
+        finder = FINDERS.get(model_id, None)
+        if not finder:
+            raise HTTPException(
+                status_code=404, detail=f"Couldn't get Finder with ID {model_id}. Available IDs: {list(FINDERS.keys())}"
+            )
 
-        result = finder.get_answers(
-            question=question,
-            top_k_retriever=request.top_k_retriever,
-            top_k_reader=request.top_k_reader,
-            filters=filters,
-        )
-        results.append(result)
+        results = []
+        for question in request.questions:
+            if request.filters:
+                # put filter values into a list and remove filters with null value
+                filters = {key: [value] for key, value in request.filters.items() if value is not None}
+                logger.info(f" [{datetime.now()}] Request: {request}")
+            else:
+                filters = {}
 
-    elasticapm.set_custom_context({"results": results})
-    end_time = time.time()
-    logger.info(json.dumps({"request": request.dict(), "results": results, "time": f"{(end_time - start_time):.2f}"}))
+            result = finder.get_answers(
+                question=question,
+                top_k_retriever=request.top_k_retriever,
+                top_k_reader=request.top_k_reader,
+                filters=filters,
+            )
+            results.append(result)
 
-    return {"results": results}
+        elasticapm.set_custom_context({"results": results})
+        end_time = time.time()
+        logger.info(json.dumps({"request": request.dict(), "results": results, "time": f"{(end_time - start_time):.2f}"}))
+
+        return {"results": results}
+
 
 @router.post("/models/{model_id}/faq-qa", response_model=Answers, response_model_exclude_unset=True)
 def faq_qa(model_id: int, request: Question):
     finder = FINDERS.get(model_id, None)
     if not finder:
-         raise HTTPException(
-            status_code=404, detail=f"Couldn't get Finder with ID {model_id}. Available IDs: {list(FINDERS.jeys())}")
+        raise HTTPException(
+            status_code=404, detail=f"Couldn't get Finder with ID {model_id}. Available IDs: {list(FINDERS.keys())}"
+        )
+
     results = []
     for question in request.questions:
         if request.filters:
-            # put filter values into a list and remove filters with null values
-            filters = {key: [value] for key, value in request.filtes.items() if values is not None}
+            # put filter values into a list and remove filters with null value
+            filters = {key: [value] for key, value in request.filters.items() if value is not None}
             logger.info(f" [{datetime.now()}] Request: {request}")
         else:
-            filtes = {}
-        
+            filters = {}
+
         result = finder.get_answers_via_similar_questions(
             question=question, top_k_retriever=request.top_k_retriever, filters=filters,
         )
