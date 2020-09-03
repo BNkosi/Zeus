@@ -1,0 +1,554 @@
+https://explore-datascience.net/short-courses/datascience-for-highschool
+H2: 
+Data Science for High School
+ 
+
+Self-funded
+
+
+
+
+Self-funded
+Sponsored
+
+
+
+
+
+
+
+
+Online: Part-time
+
+
+
+
+Online: Part-time
+
+
+
+
+Self-funded
+Sponsored
+Online: Part-time
+Paragraph: Equip yourself for the future. Learn the skills that matter.
+H3: Next Course
+Paragraph: Jul 06, 2020 - Sep 30, 2020
+Paragraph: Applications will open again in the future
+  Overview
+ Curriculum
+ Instructors
+ Why Data Science?
+ Course Pricing
+ FAQ
+H2: Overview
+H3: Learn more about the sexiest career of the 21st century.
+Paragraph: Data Science is one of the fastest growing careers with some of the highest salaries paid.
+H3: Guided by some of the Best
+Paragraph: Our support team have been there and done that - they are experienced practitioners of data science in various fields such as Utilities, Retail and Financial Services; with a solid academic background.
+H3: Learn How to Solve Problems
+Paragraph: The course is built around solving actual problems whilst learning about the latest machine learning techniques.
+H3: Apply the skills
+Paragraph: EXPLORE prides itself on the practicality of the course. Participants must be able to apply the skills/knowledge that they acquired.
+H3: Extended access to Material
+Paragraph: Participants will have extended access to the material that are covered in the course, allowing them to revisit the techniques to keep it fresh in their mind. 
+H2: Curriculum
+H3: Start thinking like a data scientist
+Paragraph: This course will provide students with the overview of knowledge and skills required to kick-start their data science learning. It will teach students to apply statistical analysis to answer questions with that data and present their insights and information as actionable as possible.
+Paragraph: Students will learn about the basics of programming using python as well as the environment that they will be writing the code in.
+Able to write python code in google colab
+Able to work with various data types in python
+Able to write logical code that includes for loops and functions
+Paragraph: Students will learn about how to present valuable insights after performing analysis, which will all be done using python.
+Understand the basics of data visualisation
+Able to create graphs using matplotlib library
+Able to build interactive dashboards using Bokeh library
+Paragraph: Students will learn about statistics and the world of prediction, which will include building and testing their own models in python.
+Understand the basic of statistics
+Able to pre-process data to be ready for modelling
+Able to build models in python using Scikit Learn library
+  Overview
+ Curriculum
+ Instructors
+ Why Data Science?
+ Course Pricing
+ FAQ
+H2: Instructors
+H3: Meet your teachers
+Paragraph: We take teaching seriously. Great teachers inspire us to connect with topics on a profound level. With experience in the field and the classroom, our data science instructors are unmatched. Simply put: students learn from the best.
+H3: Jaco Jansen van Rensburg
+Paragraph: Jaco is a Lead Data Scientist in the EXPLORE Data Science Academy. He has spent the bulk of his career on scientific and industrial research and holds a PhD in Mechanical Engineering with a focus on mathematical modelling and optimisation.
+H3: Dewald Botha
+Paragraph: Dewald is an actuary and senior data scientist. He was one of the first brave souls to join the EXPLORE ship in 2016. He is managing EXPLORE's learning platform, Athena, and leading the corporate training - 2/3 day bootcamps to upskill employees.
+  Overview
+ Curriculum
+ Instructors
+ Why Data Science?
+ Course Pricing
+ FAQ
+H2: Why Data Science?
+H3: Join the fastest-growing corner of the tech industry
+Paragraph: More than ever before, industries are capturing data on a variety of topics, behaviours and trends. Without data science, this information stays stuck - no story to tell and no insights to share. In order to determine business goals, more and more companies are looking to data scientists to fill in the gaps and find opportunities never before considered or understood.
+Paragraph: Over the last 4 years, the rise of job opportunities for data scientists has become almost level to those traditionally seen for software engineering positions.
+Paragraph: As this area expertise has grown, the positions within the field become more nuanced. After completing our NYC Data Science Bootcamp, students will not only be able to secure a job as a data scientist, but can also consider pursuing any of the following related positions.
+Data Engineer
+Machine Learning Engineer
+Big data Engineer
+Back-End Engineer
+Natural Language Processing
+  Overview
+ Curriculum
+ Instructors
+ Why Data Science?
+ Course Pricing
+ FAQ
+H2: Course Pricing
+H3: Find the right payment plan for you
+H3: Upfront Payment
+Paragraph: One upfront payment, payable before the start of the course
+H3: Course Date: Jul 06, 2020 - Sep 30, 2020
+H3: Course Date: Jul 06, 2020 - Sep 30, 2020
+H3: Monthly Payment
+Paragraph: 6 Monthly payments, payable in advance at the start of each month
+H3: Course Date: Jul 06, 2020 - Sep 30, 2020
+H3: Course Date: Jul 06, 2020 - Sep 30, 2020
+  Overview
+ Curriculum
+ Instructors
+ Why Data Science?
+ Course Pricing
+ FAQ
+H2: FAQ
+H3: You have questions; we have answers
+Python � the programming language for the course
+Google colab � the environment you will write python code in
+Python � the programming language for the course
+Google colab � the environment you will write python code in
+FAQ_0: 
+
+
+How to apply?
+
+
+
+
+All applications happen via our website: www.explore-datascience.net. Select the course and location (on campus or online) which works for you and click Apply Now. For on campus study, there are various requirements, for online applications it is simpler.
+
+
+FAQ_1: 
+
+
+Do I qualify to apply?
+
+
+
+
+For on campus study there are some qualifying criteria, which can be found in the T�s and C�s of our Money-Back Promise (on the website). For online study, anyone qualifies!
+
+
+FAQ_2: 
+
+
+What is the best course for me?
+
+
+
+
+This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sure� Use our handy tool to find the course for you. Look for the link under �Find your tribe�
+
+
+FAQ_3: 
+
+
+What qualification will I have at the end?
+
+
+
+
+We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate.
+
+
+FAQ_4: 
+
+
+Is it industry recognized?
+
+
+
+
+EXPLORE Data Science Academy graduates are Amazing People, doing Amazing Things. Our Alumni are highly sought after and 97% of them have found industry related employment within 6 months of graduating.
+
+
+FAQ_5: 
+
+
+I've signed up but didn't get confirmation?
+
+
+
+
+First stop is to check your Spam or Junk mail folders. Sometimes the internet gremlins hide our emails there. Alternatively, log back into your student profile and check that you completed all the steps for application. Look for the sign-in button on the top right of the website page.
+
+
+FAQ_6: 
+
+
+What support is available for online students?
+
+
+
+
+Webinars will be scheduled for content briefing, and, we have a really cool student chat platform which gives you access to the student community and course facilitators.
+
+
+FAQ_7: 
+
+
+Are there career services for online?
+
+
+
+
+EXPLORE Data Science Academy graduates are Amazing People, doing Amazing Things. Our Alumni are highly sought after and 97% of them have found industry related employment within 6 months of graduating.
+
+
+FAQ_8: 
+
+
+How to apply?
+
+
+
+
+All applications happen via our website: www.explore-datascience.net. Select the course and location (on campus or online) which works for you and click Apply Now. For on campus study, there are various requirements, for online applications it is simpler.
+
+
+FAQ_9: 
+
+
+Do I qualify to apply?
+
+
+
+
+For on campus study there are some qualifying criteria, which can be found in the T�s and C�s of our Money-Back Promise (on the website). For online study, anyone qualifies!
+
+
+FAQ_10: 
+
+
+What is the best course for me?
+
+
+
+
+This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sure� Use our handy tool to find the course for you. Look for the link under �Find your tribe�
+
+
+FAQ_11: 
+
+
+What qualification will I have at the end?
+
+
+
+
+We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate.�
+
+
+FAQ_12: 
+
+
+Is it industry recognized?
+
+
+
+
+EXPLORE Data Science Academy graduates are Amazing People, doing Amazing Things. Our Alumni are highly sought after and 97% of them have found industry related employment within 6 months of graduating.
+
+
+FAQ_13: 
+
+
+I've signed up but didn't get confirmation?
+
+
+
+
+First stop is to check your Spam or Junk mail folders. Sometimes the internet gremlins hide our emails there. Alternatively, log back into your student profile and check that you completed all the steps for application. Look for the sign-in button on the top right of the website page.
+
+
+FAQ_14: 
+
+
+What software tools will we cover in the course?
+
+
+
+
+You will use the following tools in the course:
+
+Python � the programming language for the course
+Google colab � the environment you will write python code in
+
+
+
+FAQ_15: 
+
+
+What are some of the problems will we solve in the course?
+
+
+
+
+You will solve problems like predicting which customers will take out a loan and what customers are saying about banks on social media.
+
+
+FAQ_16: 
+
+
+Will it be technical?
+
+
+
+
+Yes. There are complex maths behind some of the models, however we will focus on the application of the techniques.
+
+
+FAQ_17: 
+
+
+Are there any prerequisites for the course?
+
+
+
+
+No. If you are interested in data science and want to know what it is capable of, you should do the course.
+
+
+FAQ_18: 
+
+
+Will I be graded?
+
+
+
+
+Yes. There will be multiple choice quizzes to test your gained knowledge as well as coding challenges to put your programming to the test.
+
+
+FAQ_19: 
+
+
+How to apply?
+
+
+
+
+All applications happen via our website: www.explore-datascience.net. Select the course and location (on campus or online) which works for you and click Apply Now. For on campus study, there are various requirements, for online applications it is simpler.
+
+
+FAQ_20: 
+
+
+Do I qualify to apply?
+
+
+
+
+For on campus study there are some qualifying criteria, which can be found in the T�s and C�s of our Money-Back Promise (on the website). For online study, anyone qualifies!
+
+
+FAQ_21: 
+
+
+What is the best course for me?
+
+
+
+
+This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sure� Use our handy tool to find the course for you. Look for the link under �Find your tribe�
+
+
+FAQ_22: 
+
+
+What qualification will I have at the end?
+
+
+
+
+We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate.
+
+
+FAQ_23: 
+
+
+Is it industry recognized?
+
+
+
+
+EXPLORE Data Science Academy graduates are Amazing People, doing Amazing Things. Our Alumni are highly sought after and 97% of them have found industry related employment within 6 months of graduating.
+
+
+FAQ_24: 
+
+
+I've signed up but didn't get confirmation?
+
+
+
+
+First stop is to check your Spam or Junk mail folders. Sometimes the internet gremlins hide our emails there. Alternatively, log back into your student profile and check that you completed all the steps for application. Look for the sign-in button on the top right of the website page.
+
+
+FAQ_25: 
+
+
+What support is available for online students?
+
+
+
+
+Webinars will be scheduled for content briefing, and, we have a really cool student chat platform which gives you access to the student community and course facilitators.
+
+
+FAQ_26: 
+
+
+Are there career services for online?
+
+
+
+
+EXPLORE Data Science Academy graduates are Amazing People, doing Amazing Things. Our Alumni are highly sought after and 97% of them have found industry related employment within 6 months of graduating.
+
+
+FAQ_27: 
+
+
+How to apply?
+
+
+
+
+All applications happen via our website: www.explore-datascience.net. Select the course and location (on campus or online) which works for you and click Apply Now. For on campus study, there are various requirements, for online applications it is simpler.
+
+
+FAQ_28: 
+
+
+Do I qualify to apply?
+
+
+
+
+For on campus study there are some qualifying criteria, which can be found in the T�s and C�s of our Money-Back Promise (on the website). For online study, anyone qualifies!
+
+
+FAQ_29: 
+
+
+What is the best course for me?
+
+
+
+
+This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sure� Use our handy tool to find the course for you. Look for the link under �Find your tribe�
+
+
+FAQ_30: 
+
+
+What qualification will I have at the end?
+
+
+
+
+We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate.�
+
+
+FAQ_31: 
+
+
+Is it industry recognized?
+
+
+
+
+EXPLORE Data Science Academy graduates are Amazing People, doing Amazing Things. Our Alumni are highly sought after and 97% of them have found industry related employment within 6 months of graduating.
+
+
+FAQ_32: 
+
+
+I've signed up but didn't get confirmation?
+
+
+
+
+First stop is to check your Spam or Junk mail folders. Sometimes the internet gremlins hide our emails there. Alternatively, log back into your student profile and check that you completed all the steps for application. Look for the sign-in button on the top right of the website page.
+
+
+FAQ_33: 
+
+
+What software tools will we cover in the course?
+
+
+
+
+You will use the following tools in the course:
+
+Python � the programming language for the course
+Google colab � the environment you will write python code in
+
+
+
+FAQ_34: 
+
+
+What are some of the problems will we solve in the course?
+
+
+
+
+You will solve problems like predicting which customers will take out a loan and what customers are saying about banks on social media.
+
+
+FAQ_35: 
+
+
+Will it be technical?
+
+
+
+
+Yes. There are complex maths behind some of the models, however we will focus on the application of the techniques.
+
+
+FAQ_36: 
+
+
+Are there any prerequisites for the course?
+
+
+
+
+No. If you are interested in data science and want to know what it is capable of, you should do the course.
+
+
+FAQ_37: 
+
+
+Will I be graded?
+
+
+
+
+Yes. There will be multiple choice quizzes to test your gained knowledge as well as coding challenges to put your programming to the test.
+
+
+Prices: R6,000
+Prices: R1,000 per month

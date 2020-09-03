@@ -1,0 +1,164 @@
+https://explore-datascience.net/short-courses/data-science-for-managers
+H2: 
+Data Science for Managers
+
+
+Self-funded
+
+
+
+
+Self-funded
+Sponsored
+
+
+
+
+
+
+
+
+No Location
+
+
+
+
+
+
+
+
+Self-funded
+Sponsored
+Paragraph: Get to grips with what Data Science is and how you can use it to make your job easier.
+
+H3: Next Course
+Paragraph: Currently no courses available
+  Overview
+ Curriculum
+ Instructors
+ Why Data Science
+ Course Pricing
+ FAQ
+H2: Overview
+H3: Work with the best
+Paragraph: 
+Our support team have been there and done that - they are experienced practitioners of data science in various fields such as Utilities, Retail and Financial Services; with a solid academic background.
+
+H3: Apply the skills
+Paragraph: EXPLORE prides itself on the practicality of the course. Participants must be able to apply the skills/knowledge that they acquired to do amazing things.
+H3: Extended access to materials
+Paragraph: Participants will have extended access to the material that are covered in the course, allowing them to revisit the techniques to keep it fresh in their mind.
+H3: Lead a data-driven team
+Paragraph: Learn to make decisions compelled by data, science, and evidence to improve how your teams operate.
+H2: Curriculum
+H3: Start thinking like a Data Scientist
+Paragraph: This course will help experienced and novice managers alike to upgrade their skill set to be effective in the modern data-centric organisation. You will learn to gather, interpret, visualise and summarise data using a variety of software. We introduce basic data science tools including Excel for cleaning and wrangling, Power BI for reporting and live dashboards, and Jupyter and Python for predictive modelling, further data visualisation and time-series forecasting.
+Paragraph: By the end of this module, you will be able to answer the question "What is Data Science". We sill cover the principles of Data Science, and the most recent trends. Thereafter, we will move on to cleaning and manipulating data in Excel
+Terminology, technologies, team sizes, history of data science, potential savings and efficiencies, examples.
+Types of tabular data, numerical vs. categorical data, outliers and missing values, using Excel effectively, pivot tables.
+Paragraph: In this module, we'll go over some basics, and move onto visualisation and modelling.
+Measures of central tendency, measures of spread, descriptive vs. inferential statistics, summary statistics, types of plots and graphs, creating visuals in Power BI, creating live dashboards.
+Understand and fit a regression line to data, classification vs. regression problems, extrapolating time-series data, building a simple predictive model.
+  Overview
+ Curriculum
+ Instructors
+ Why Data Science
+ Course Pricing
+ FAQ
+H2: Instructors
+H3: Meet your teachers
+Paragraph: We take teaching seriously. Great teachers inspire us to connect with topics on a profound level. With experience in the field and the classroom, our data science instructors are unmatched. Simply put: students learn from the best.
+H3: Jonothan Gerrand
+Paragraph: Jonathan is an electrical engineer specialising in biomedical image processing and machine learning (MSc). Having been a founding member of the Data Science for Impact and Decision Enablement (DSIDE) program within the CSIR, he is passionate about teaching, innovating for good, and equipping others to reason within a data driven world. Jonathan loves the outdoors, is unashamedly nerdy, and relishes a compelling debate.
+H3: Kieran Donnelly
+Paragraph: Kieran is an electro-mechanical engineer with a number of years experience working with drones and producing video content, more recently completing an MSc in Data Science. After researching his master's thesis in video object tracking at Sony in Sweden, Kieran joined EXPLORE to lead the charge in creating World-Class video tutorials, and also serves as an educator for our 2/3-day corporate data science bootcamps.
+H3: Andrew Davis
+Paragraph: 
+Andrew is an associate actuary turned data scientist. He has experience in insurance distribution for a large insurance group and strategic analytics for a major hospital group. Since joining EXPLORE he has been involved with setting up our new data science campus in Johannesburg, piloting our new fin-tech incubator and providing data science consulting to our utilities and financial services partners. Andrew enjoys making friends and then leaving them for another city.
+
+  Overview
+ Curriculum
+ Instructors
+ Why Data Science
+ Course Pricing
+ FAQ
+H2: Why Data Science for Managers
+H3: Make better decisions and smart actions in real time without human intervention
+Paragraph: Four major factors are driving the demand for data science expertise globally:
+Data is being generated at an alarming rate
+The speed of our computers is increasing exponentially
+Cloud providers are storing more and more data
+And powerful algorithms are constantly improving in their detections, translations, and predictions
+Paragraph: In order to lead your team in the right direction, it's vital that you're aware of how to extract meaning from the data at your disposal.
+  Overview
+ Curriculum
+ Instructors
+ Why Data Science
+ Course Pricing
+ FAQ
+H2: Course Pricing
+H3: Find the right payment plan for you
+H3: No plans available
+  Overview
+ Curriculum
+ Instructors
+ Why Data Science
+ Course Pricing
+ FAQ
+H2: FAQ
+H3: You have questions; we have answers
+FAQ_0: 
+
+
+What is the learning portal?
+
+
+
+
+Our critically-acclaimed online learning platform, ATHENA, ensures the timeous delivery of all your course material; keeps track of your progress on coursework and tests; and enables contact between you and the EXPLORE facilitators for when you find yourself in a pinch.
+
+
+FAQ_1: 
+
+
+Will I have enough time?
+
+
+
+
+Our courses are designed to fit in with the busy lives of family-runners and businesspeople. They require less than 90 mins per day during weekdays, so the weekends can be used to do any additional reading or catching up, as required.
+
+
+FAQ_2: 
+
+
+Are there any learning pre-requisites?
+
+
+
+
+We don't have any material requirements for existing qualifications. However, an analytical background as well as 3+ years experience in leading teams of multiple people would certainly help you to benefit as much as possible from the course.
+
+
+FAQ_3: 
+
+
+Is there any specific hardware or software required?
+
+
+
+
+All you need to complete the course is access to a computer and an internet connection. We provide instructions for both Windows and Mac operating systems, where necessary, and there are no hidden charges for additional software or applications.
+
+
+FAQ_4: 
+
+
+Is the course accredited?
+
+
+
+
+EXPLORE is SETA accredited and our data science course is at NQF Level 5. Upon completion of the course you will receive a certificate.
+
+

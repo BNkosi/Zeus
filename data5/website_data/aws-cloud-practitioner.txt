@@ -1,0 +1,296 @@
+https://explore-datascience.net/short-courses/aws-cloud-practitioner
+H2: 
+AWS Cloud Practitioner
+ 
+
+Self-funded
+
+
+
+
+Self-funded
+Sponsored
+
+
+
+
+
+
+
+
+No Location
+
+
+
+
+
+
+
+
+Self-funded
+Sponsored
+Paragraph: Learn how to work with the biggest cloud provider in the world and turbo-charge your career. 
+H3: Next Course
+Paragraph: Currently no courses available
+  Overview
+ Curriculum
+ Instructors
+ Why Visualise
+ Course Pricing
+ FAQ
+H2: Overview
+H3: Move towards understanding utilizing Amazon's Web Services
+Paragraph: Gain a high level overview of Amazon Web Services, and prepare to achieve AWS Certified Cloud Practitioner certification: a recommended, optional step toward achieving an Associate-level or Specialty certification.
+H3: Become Cloud ready
+Paragraph: The course is built around learning and applying techniques which will enable you and your organisation to not only live, but thrive in the Cloud. 
+H3: Apply the skills
+Paragraph: EXPLORE prides itself on the practicality of the course. Participants will be able to apply the knowledge that they learn with staff-facilitated labs and regular exercises on cloud-based infrastructure. 
+H3: Prepare to become certified
+Paragraph: Completion of the course will fully prepare candidates to take the AWS Cloud Practitioner Certification Examination. Participants will have extended access to the material that are covered in the course, allowing them to revisit the techniques to keep it fresh in their mind. 
+H3: Work with the Best
+Paragraph: Our support team have been there and done that - they are experienced practitioners of data science in various fields such as Utilities, Retail and Financial Services; with a solid academic background.
+H2: Curriculum
+H3: Start thinking in The Cloud
+Paragraph: This course will provide individuals with the knowledge, skills, and experience required to complete the AWS Cloud Practitioner Certification Examination. You will learn how to practically instantiate end-to-end technological solutions in the AWS cloud utilising a multitude of compute and storage services, as well as the means to monitor, secure, and scale such solutions.
+Understand Cloud terminology
+Understand economic drivers for the Cloud and cost optimisation 
+Understand AWS global infrastructure.
+Look at AWS services: EC2, EBS, EFS, S3, RDS, DynamoDB, VPC.
+Purpose and configuration of AWS services
+Look at price of AWS services
+Look at the five pillars of the AWS Well Architected Framework
+Access control: security practices, AWS Policies and IAM Services
+AWS guiding principles of scalability, reliability and availability 
+Consolidated billing and volume-based discounts
+AWS cost visualisation
+Understand available support services and offerings
+  Overview
+ Curriculum
+ Instructors
+ Why Visualise
+ Course Pricing
+ FAQ
+H2: Instructors
+H2: Instructors
+Paragraph: We take teaching seriously. Great teachers inspire us to connect with topics on a profound level. With experience in the field and the classroom, our data science instructors are unmatched. Simply put: students learn from the best.
+H3: Jonathan Gerrand
+Paragraph: Jonathan is an electrical engineer specialising in biomedical image processing and machine learning (MSc). Having been a founding member of the Data Science for Impact and Decision Enablement (DSIDE) program within the CSIR, he is passionate about teaching, innovating for good, and equipping others to reason within a data driven world. Jonathan loves the outdoors, is unashamedly nerdy, and relishes a compelling debate.
+H3: Kieran Donnelly
+Paragraph: Kieran is an electro-mechanical engineer with a number of years experience working with drones and producing video content, more recently completing an MSc in Data Science. After researching his master's thesis in video object tracking at Sony in Sweden, Kieran joined EXPLORE to lead the charge in creating World-Class video tutorials, and also serves as an educator for our 2/3-day corporate data science bootcamps.
+H3: Sicelukwanda Zwane
+Paragraph: Kwanda is a research professional with a masters in Computer Science, specializing in reinforcement learning. He is passionate about automation and lives at the intersection between robotics and machine learning. Kwanda's spirit animal is a flying roomba.
+  Overview
+ Curriculum
+ Instructors
+ Why Visualise
+ Course Pricing
+ FAQ
+H2: Why AWS Cloud Practitioner?
+H3: Amazon Web Services (AWS) is recognised as a world leader in cloud computing technologies.
+Paragraph: With a significantly more services and features than any other cloud provider, continual innovation, industry leading security and fault tolerance, as well as the largest community of customers and service partners spanning the globe, individuals taking the EXPLORE AWS Cloud Practitioner course ensure that they are ready to lead within the current digital aid.
+  Overview
+ Curriculum
+ Instructors
+ Why Visualise
+ Course Pricing
+ FAQ
+H2: Course Pricing
+H3: Find the right payment plan for you
+H3: No plans available
+  Overview
+ Curriculum
+ Instructors
+ Why Visualise
+ Course Pricing
+ FAQ
+H2: FAQ
+H3: You have questions; we have answers
+Q: How to apply?
+A: All applications happen via this website:. to apply for this course, click one of the many "Apply Now" Buttons on the page. For on campus study, there are various requirements, for online applications it is simpler.
+FAQ_1: 
+
+
+Do I qualify to apply?
+
+
+
+
+For this course, anyone qualifies! Although AWS recommends should have a basic understanding of IT services.
+
+
+FAQ_2: 
+
+
+What qualification will I have at the end?
+
+
+
+
+We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of this course, you will receive a completion certificate.
+
+
+FAQ_3: 
+
+
+Is it industry recognized?
+
+
+
+
+EXPLORE Data Science Academy graduates are Amazing People, doing Amazing Things. Completing this course will prepare you to take the AWS Cloud Practitioner Certification Examination.
+
+
+FAQ_4: 
+
+
+I've signed up but didn't get confirmation?
+
+
+
+
+First stop is to check your Spam or Junk mail folders. Sometimes the internet gremlins hide our emails there. Alternatively, log back into your student profile and check that you completed all the steps for application. Look for the sign-in button on the top right of the website page.
+
+
+FAQ_5: 
+
+
+What support is available for online students?
+
+
+
+
+Webinars will be scheduled for content briefing, and, we have a really cool student chat platform which gives you access to the student community and course facilitators.
+
+
+FAQ_6: 
+
+
+Are there career services for online?
+
+
+
+
+Our career services team is willing to help and support all students. There is a host of useful material in our online learning platform which is available to all EXPLORE students. One-on-one career services sessions can be arranged if motivated for.
+
+
+FAQ_7: 
+
+
+How to apply?
+
+
+
+
+All applications happen via our website: www.explore-datascience.net. Select the course and location (on campus or online) which works for you and click Apply Now. For on campus study, there are various requirements, for online applications it is simpler.
+
+
+FAQ_8: 
+
+
+Do I qualify to apply?
+
+
+
+
+For on campus study there are some qualifying criteria, which can be found in the T’s and C’s of our Money-Back Promise (on the website). For online study, anyone qualifies!
+
+
+FAQ_9: 
+
+
+Is the best course for me?
+
+
+
+
+This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sure… Use our handy "Find your Course" on our 
+
+
+FAQ_10: 
+
+
+What qualification will I have at the end?
+
+
+
+
+We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate. 
+
+
+FAQ_11: 
+
+
+Will I have enough time?
+
+
+
+
+Our courses are designed to fit in with the busy lives of family-runners and businesspeople. They require less than 90 mins per day during weekdays, so the weekends can be used to do any additional reading or catching up, as required. 
+
+
+FAQ_12: 
+
+
+Is there any specific hardware or software required?
+
+
+
+
+All you need to complete the course is access to a computer and an internet connection. We provide instructions for both Windows and Mac operating systems, where necessary, and there are no hidden charges for additional software or applications. 
+
+
+FAQ_13: 
+
+
+Is it industry recognized?
+
+
+
+
+EXPLORE Data Science Academy graduates are Amazing People, doing Amazing Things. Our Alumni are highly sought after and 97% of them have found industry related employment within 6 months of graduating.
+
+
+FAQ_14: 
+
+
+I've signed up but didn't get confirmation?
+
+
+
+
+First stop is to check your Spam or Junk mail folders. Sometimes the internet gremlins hide our emails there. Alternatively, log back into your student profile and check that you completed all the steps for application. Look for the sign-in button on the top right of the website page.
+
+
+FAQ_15: 
+
+
+What software tools will we cover in the course?
+
+
+
+
+Various AWS services, but none in any practical detail
+
+
+FAQ_16: 
+
+
+Are there any prerequisites for the course?
+
+
+
+
+No. Only a hunger to learn more about AWS. Amazon does recommend that you have a basic understanding of IT services.
+
+
+FAQ_17: 
+
+
+Will I be graded?
+
+
+
+
+No, however in order to complete the course you will have to submit a few multiple choice quizzes.
+
+

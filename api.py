@@ -22,29 +22,22 @@ from haystack.reader.transformers import TransformersReader
 from haystack.retriever.base import BaseRetriever
 from haystack.retriever.sparse import ElasticsearchRetriever, ElasticsearchFilterOnlyRetriever
 from haystack.retriever.dense import EmbeddingRetriever
+from haystack.database.faiss import FAISSDocumentStore
+from haystack.indexing.utils import convert_files_to_dicts, fetch_archive_from_http
 
 logger = logging.getLogger(__name__)
 router = APIRouter()
 
 # Init global components: DocumentStore, Retriever, Reader, Finder
-document_store = ElasticsearchDocumentStore(
-    host=DB_HOST,
-    port=DB_PORT,
-    username=DB_USER,
-    password=DB_PW,
-    index=DB_INDEX,
-    scheme=ES_CONN_SCHEME,
-    ca_certs=False,
-    verify_certs=False,
-    text_field=TEXT_FIELD_NAME,
-    name_field=NAME_FIELD_NAME,
-    search_fields=SEARCH_FIELD_NAME,
-    embedding_dim=EMBEDDING_DIM,
-    embedding_field=EMBEDDING_FIELD_NAME,
-    excluded_meta_data=EXCLUDE_META_DATA_FIELDS,  # type: ignore
-    faq_question_field=FAQ_QUESTION_FIELD_NAME,
-)
 
+document_store = FAISSDocumentStore()
+doc_dir = "resources/data/expore-datascience.net"
+s3_url = "https://github.com/Thabo-5/Chatbot-scraper/raw/master/txt_files.zip"
+fetch_archive_from_http(url=s3_url, output_dir=doc_dir)
+
+# Convert files to dicts
+dicts = convert_files_to_dicts(dir_path=doc_dir, clean_func=clean_wiki_text, split_paragraphs=True)
+document_store.write_documents(dicts)
 
 if RETRIEVER_TYPE == "EmbeddingRetriever":
     retriever = EmbeddingRetriever(
@@ -57,6 +50,16 @@ elif RETRIEVER_TYPE == "ElasticsearchRetriever":
     retriever = ElasticsearchRetriever(document_store=document_store)
 elif RETRIEVER_TYPE is None or RETRIEVER_TYPE == "ElasticsearchFilterOnlyRetriever":
     retriever = ElasticsearchFilterOnlyRetriever(document_store=document_store)
+elif RETRIEVER_TYPE == "DensePassageRetriever":
+    retriever = DensePassageRetriever(document_store=document_store,
+                                  query_embedding_model="facebook/dpr-question_encoder-single-nq-base",
+                                  passage_embedding_model="facebook/dpr-ctx_encoder-single-nq-base",
+                                  use_gpu=False,
+                                  embed_title=True,
+                                  max_seq_len=256,
+                                  batch_size=16,
+                                  remove_sep_tok_from_untitled_passages=True)
+    document_store.update_embeddings(retriever)
 else:
     raise ValueError(f"Could not load Retriever of type '{RETRIEVER_TYPE}'. "
                      f"Please adjust RETRIEVER_TYPE to one of: "
@@ -69,23 +72,14 @@ if READER_MODEL_PATH:  # for extractive doc-qa
     if READER_TYPE == "TransformersReader":
         use_gpu = -1 if not USE_GPU else GPU_NUMBER
         reader = TransformersReader(
-            model=str(READER_MODEL_PATH),
+            model=str(gpt2),
             use_gpu=use_gpu,
             context_window_size=CONTEXT_WINDOW_SIZE,
             tokenizer=str(READER_TOKENIZER)
         )  # type: Optional[FARMReader]
     elif READER_TYPE == "FARMReader":
-        reader = FARMReader(
-            model_name_or_path=str(READER_MODEL_PATH),
-            batch_size=BATCHSIZE,
-            use_gpu=USE_GPU,
-            context_window_size=CONTEXT_WINDOW_SIZE,
-            top_k_per_candidate=TOP_K_PER_CANDIDATE,
-            no_ans_boost=NO_ANS_BOOST,
-            num_processes=MAX_PROCESSES,
-            max_seq_len=MAX_SEQ_LEN,
-            doc_stride=DOC_STRIDE,
-        )  # type: Optional[FARMReader]
+        reader = FARMReader(model_name_or_path="bert-large-uncased-whole-word-masking-finetuned-squad",
+            use_gpu=False)  # type: Optional[FARMReader]
     else:
         raise ValueError(f"Could not load Reader of type '{READER_TYPE}'. "
                          f"Please adjust READER_TYPE to one of: "

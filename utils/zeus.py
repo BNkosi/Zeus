@@ -20,13 +20,13 @@ from IPython import get_ipython
 
 # %%
 # First instalation
-get_ipython().system('pip install git+https://github.com/deepset-ai/haystack.git')
-get_ipython().system('pip install torch==1.5.1+cu101 torchvision==0.6.1+cu101 -f https://download.pytorch.org/whl/torch_stable.html')
+# get_ipython().system('pip install git+https://github.com/deepset-ai/haystack.git')
+# get_ipython().system('pip install torch==1.5.1+cu101 torchvision==0.6.1+cu101 -f https://download.pytorch.org/whl/torch_stable.html')
 
 
 # %%
 # Make sure you have a GPU running
-get_ipython().system('nvidia-smi')
+# get_ipython().system('nvidia-smi')
 
 # %% [markdown]
 # ## Imports
@@ -46,7 +46,7 @@ from haystack.retriever.dense import DensePassageRetriever
 # ## Load Data
 
 # %%
-def fetch_data_from_repo(doc_dir = "data5/website_data/", 
+def fetch_data_from_repo(doc_dir = "resources/data/website_data/", 
                          s3_url = "https://github.com/Thabo-5/Chatbot-scraper/raw/master/txt_files.zip",
                          doc_store=FAISSDocumentStore()):
     """

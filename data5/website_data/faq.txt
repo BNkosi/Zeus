@@ -1,0 +1,163 @@
+https://explore-datascience.net/home/faq
+H2: How Can We Help You?
+Paragraph: 
+Have a question? Maybe someone else has asked it before.
+Scroll down for answers to the qusetions we get asked
+most.
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+
+
+
+H3: Introduction
+
+
+
+
+
+
+
+
+
+
+
+Courses
+
+
+
+
+H3: Courses
+
+
+
+
+
+
+
+
+
+
+
+Pricing
+
+
+
+
+H3: Pricing
+
+
+
+
+
+
+
+
+
+
+
+Most Asked
+
+
+
+
+H3: Most Asked
+H2: Introduction
+Q: How do I know which course is right for me?
+A: You can use our handy tool to find the course for you - click the "Find Your Course" button on the homepage.
+Q: How do I apply?
+A: All applications happen via our website. Select the course and location (on campus or online) which works for you and click Apply Now. For on campus study, there are various 
+requirements, for online applications it is simpler.
+Q: Do I qualify to apply?
+A: For on campus study there are some qualifying criteria, which can be found in the T’s and C’s of our Money-Back Promise. For online study, anyone qualifies!
+Q: Is an EXPLORE qualification industry recognised?
+A: EXPLORE Data Science Academy graduates are Amazing People, doing Amazing Things. Our Alumni are highly sought after and more than 90% of them have found industry related 
+employment within 6 months of graduating.
+Q: I've registered but I didn't get confirmation?
+A: The first step is to check your Spam or Junk mail folders. Sometimes the internet gremlins hide our emails there. Alternatively, log into your student dashboard and check 
+that you completed all the steps for application. Look for the sign-in button on the top right of the website page.
+Q: Are there career services for online students?
+A: Our career services team is willing to help and support all students. There is a host of useful material in our online learning platform which is available to all EXPLORE students. One-on-one career services sessions can be arranged if motivated for.
+Q: What if I realise the course I have signed up for isn't for me?
+A: We offer a pay as you go structure to our self funded students. If at any time you wish to discontinue the course, just send us 1 months notice.
+Q: If I am unsuccessful, can I apply again?
+A: Yes! Although, spots are limited and highly coveted, and we are not able to offer a place to everyone, we run several intakes throughout the year. If your interest in your 
+chosen course remains, please apply again.
+Q: How does the application process work?
+A: At EXPLORE we value aptitude and attitude, and we assess these traits through a stepwise application process for on-campus study:
+Application and online aptitude test - assesses thinking skills, logic and reasoning
+Online Bootcamp - a combination of learning and testing 
+Interview on campus
+Successful applicants join our ranks as an EXPLORER
+
+H2: Courses
+Q: How can I find my favorite course?
+A: You can use our handy tool to find the course for you - click the "Find Your Course" button on the homepage.
+Q: What are the differences between online and on-campus courses?
+A: Online courses are our distance-learning solution. Students needn’t attend classes on campus and are free to study at hours which suit them. Our flagship on-campus courses 
+required students to be present on an EXPLORE campus for 40 hours per work week i.e. they learn with others on-site during working hours.
+Q: What is the difference between short courses and long courses?
+A: Long courses run over the course of more than 6 months, whilst short courses are 3 - 6 months long.
+Q: What is the best course for me?
+A: This depends on what your constraints are - can you study full time on campus, or do you need the flexibility of online study. On-campus is the premium experience, backed up 
+with a Money-Back Promise! Still not sure… Use our handy tool to find the course for you - click the "Find Your Course" button on the homepage.
+Q: What qualification will I have at the end?
+A: We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate.
+Q: What support is available for online students?
+A: Webinars will be scheduled for content briefing, and, we use an online chat platform which gives you access to the student community and course facilitators.
+Q: Is there a part time study option?
+A: Our online courses are ideal for part time study. They require discipline and focus to complete.
+
+H2: Pricing
+Q: What is the difference between being on a payment plan, and being sponsored?
+A: EXPLORE offers limited places for qualifying students to be sponsored by a corporate organisation. This programme includes 6 months of course work (conducted full-time, on 
+campus) and 6 months of project and internship work i.e. students study for 12 months in total. All tuition is covered and students are awarded a stipend for living expenses. 
+Whilst employment is not guaranteed, students have the opportunity to work with their sponsors during the internship phase to showcase their skills. EXPLORE works closely with 
+students to support their workplace readiness and employment security. Students on a payment plan pay for their own studies. Those completing a full-time, on-campus long (6 
+month) course are eligible for the EXPLORE Money-Back Promise, whereby EXPLORE will refund tuition fees should a student complete the course and not be employed within 6 months 
+of completing the course. T’s and C’s apply.
+Q: What are the terms and conditions of the money-back guarantee?
+A: You can view the T's and C's of the EXPLORE money-back guarantee here.
+Q: Am I eligible for sponsorship?
+A: Corporate sponsorship is available to South African Nationals between the ages of 18 and 35 for our full time on-campus Courses (1yr long). Competition for these places is 
+extremely high.
+
+H2: Most Asked
+Q: How to apply?
+A: All applications happen via our website. Select the course and location (on campus or online) which works for you and click Apply Now. For on campus study, there are various 
+requirements, for online applications it is simpler.
+Q: Am I eligible for sponsorship?
+A: Corporate sponsorship is available to South African Nationals between the ages of 18 and 35 for our full time on-campus Courses (1yr long). Competition for these places is 
+extremely high.
+Q: What is the best course for me?
+A: This depends on what your constraints are - can you study full time on campus, or do you need the flexibility of online study. On-campus is the premium experience, backed up 
+with a Money-Back Promise! Still not sure… Use our handy tool to find the course for you - click the "Find Your Course" button on the homepage.
+Q: What qualification will I get at the end?
+A: We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate.
+Q: What does it cost?
+A: EXPLORE offers limited places for qualifying students to be sponsored by a corporate organisation. This programme includes 6 months of course work (conducted full-time, on 
+campus) and 6 months of project and internship work i.e. students study for 12 months in total. All tuition is covered and students are awarded a stipend for living expenses. 
+Whilst employment is not guaranteed, students have the opportunity to work with their sponsors during the internship phase to showcase their skills. EXPLORE works closely with 
+students to support their workplace readiness and employment security. Students on a payment plan pay for their own studies. Those completing a full-time, on-campus long (6 
+month) course are eligible for the EXPLORE Money-Back Promise, whereby EXPLORE will refund tuition fees should a student complete the course and not be employed within 6 months 
+of completing the course. T’s and C’s apply.
+Q: What support is available for online students?
+A: Webinars will be scheduled for content briefing, and, we use an online chat platform which gives you access to the student community and course facilitators.
+
+H2: Didn't Find Your Question?
+Paragraph: 
+If you are not able to find the answer to your question,
+feel free to contact us. Our customer support will kindly
+help you.
+
