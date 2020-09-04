@@ -10,7 +10,7 @@ class RequestLimiter:
 
     @contextmanager
     def run(self):
-        aquired = self.semaphore.acquire(blocking=False)
+        acquired = self.semaphore.acquire(blocking=False)
         if not acquired:
             raise HTTPException(status_code=503, detail="The server is busy processing requests.")
         try:
